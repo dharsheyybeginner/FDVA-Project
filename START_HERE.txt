@@ -1,0 +1,9 @@
+CINEMASCOPE FDVA POWER BI PROJECT
+
+1) Extract this ZIP.
+2) Open README.md and follow section A to import the CSV files in Power BI Desktop.
+3) Create the DAX measures from dax/CinemaScope_Measures.dax one at a time.
+4) Build the three pages described in README.md.
+5) Complete report/FDVA_Report_Template.md using screenshots and the actual values displayed by your report.
+
+IMPORTANT: The included movie data, ratings, budgets, revenues, release dates and OTT platform listings are synthetic demonstration data, not real-world facts.

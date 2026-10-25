@@ -1,0 +1,701 @@
+﻿MovieID,Title,ReleaseYear,ReleaseDate,Industry,Language,Country,Genre,RuntimeMin,AudienceRating,VoteCount,BudgetUSD,RevenueUSD,OTTReleaseFlag,DataNature
+GLB0019,Silver Garden,2000,2000-08-31,Worldwide,French,France,Animation,116,6.9,1637,96400000,221610000,No,Synthetic demo data
+GLB0058,Beyond Promise,2000,2000-08-23,Worldwide,Italian,Italy,Adventure,75,6.3,503,,229370000,Yes,Synthetic demo data
+GLB0074,Starlit Horizon,2000,2000-10-10,Worldwide,English,United Kingdom,Action,149,6.8,416,90400000,59570000,Yes,Synthetic demo data
+GLB0101,Final Archive,2000,2000-09-03,Worldwide,Korean,South Korea,Mystery,113,8.2,10492,86100000,476410000,No,Synthetic demo data
+GLB0103,Parallel Horizon,2000,2000-04-28,Worldwide,German,Germany,Romance,138,7.4,2840,25800000,,No,Synthetic demo data
+GLB0115,Distant River: Paradox,2000,2000-06-26,Worldwide,English,United Kingdom,Drama,121,5.5,6171,68700000,33650000,No,Synthetic demo data
+GLB0126,Beyond Machine,2000,2000-04-22,Worldwide,Spanish,Mexico,Adventure,114,6.2,1129,,163390000,No,Synthetic demo data
+GLB0200,Crimson Reckoning,2000,2000-08-16,Worldwide,German,Germany,Romance,130,7.5,534,4900000,8000000,No,Synthetic demo data
+GLB0221,Burning Lantern: Sparrow,2000,2000-04-14,Worldwide,French,France,Fantasy,127,8.8,2083,187600000,680810000,Yes,Synthetic demo data
+GLB0227,The Last Code: Horizon,2000,2000-05-27,Worldwide,Mandarin,China,Romance,107,6.3,15451,49300000,72820000,No,Synthetic demo data
+GLB0234,Broken Storm,2000,2000-10-14,Worldwide,Spanish,Spain,Fantasy,109,7.1,2460,175500000,85050000,Yes,Synthetic demo data
+GLB0270,Burning Afterglow 2,2000,2000-11-02,Worldwide,Portuguese,Brazil,Horror,104,5.3,674,203700000,105700000,No,Synthetic demo data
+GLB0292,Echoes of City 2,2000,2000-03-09,Worldwide,English,United States,Mystery,107,6.7,8063,,142570000,No,Synthetic demo data
+GLB0329,Electric Memory,2000,2000-12-09,Worldwide,Mandarin,China,Action,110,4.6,3767,86700000,107370000,No,Synthetic demo data
+GLB0344,Shattered City,2000,2000-03-10,Worldwide,Spanish,Mexico,Horror,116,5.4,11729,188600000,125880000,No,Synthetic demo data
+GLB0379,Scarlet Signal,2000,2000-06-26,Worldwide,English,United States,Comedy,112,6.0,1520,188300000,192200000,No,Synthetic demo data
+GLB0380,Golden Frontier,2000,2000-01-08,Worldwide,Japanese,Japan,Drama,110,6.8,1606,9100000,5340000,No,Synthetic demo data
+GLB0389,Rising Garden,2000,2000-04-08,Worldwide,Spanish,Spain,Adventure,115,,1816,129100000,368520000,No,Synthetic demo data
+GLB0406,Shattered Odyssey,2000,2000-11-04,Worldwide,Telugu,India,Sci-Fi,119,7.4,1447,39400000,,No,Synthetic demo data
+GLB0452,Beyond Promise: Garden,2000,2000-11-10,Worldwide,English,United States,Action,105,6.5,1751,210600000,140880000,No,Synthetic demo data
+GLB0455,Shattered Afterglow,2000,2000-12-21,Worldwide,Malayalam,India,Romance,106,7.9,271,13500000,3850000,No,Synthetic demo data
+GLB0472,Distant River: Voyage,2000,2000-07-08,Worldwide,Spanish,Mexico,Comedy,109,6.2,13341,24500000,41910000,No,Synthetic demo data
+TAM0005,Thendral Pookkal,2000,2000-01-08,Tamil,Tamil,India,Romance,147,6.1,565,23970000,31140000,No,Synthetic demo data
+TAM0027,Thooral Mugam,2000,2000-12-03,Tamil,Tamil,India,Comedy,84,,12618,23460000,58180000,Yes,Synthetic demo data
+TAM0031,Nizhal Meendum Returns,2000,2000-07-08,Tamil,Tamil,India,Action,135,6.5,3787,23670000,38180000,No,Synthetic demo data
+TAM0039,Sutrula Saatchi,2000,2000-07-27,Tamil,Tamil,India,Horror,106,7.4,999,9910000,34000000,No,Synthetic demo data
+TAM0067,Vettai Neram,2000,2000-10-04,Tamil,Tamil,India,Horror,169,3.3,831,22220000,32340000,No,Synthetic demo data
+TAM0075,Vettai Ulagam Ragasiyam,2000,2000-07-15,Tamil,Tamil,India,Drama,129,8.1,4883,8760000,11480000,No,Synthetic demo data
+TAM0082,Thendral Kanakku,2000,2000-07-14,Tamil,Tamil,India,Horror,139,6.9,909,19810000,15300000,Yes,Synthetic demo data
+TAM0093,Marupakkam Suvadugal Ragasiyam,2000,2000-06-06,Tamil,Tamil,India,Crime,150,8.3,247,,1060000,No,Synthetic demo data
+TAM0129,Minnal Deepam,2000,2000-09-22,Tamil,Tamil,India,Action,129,5.7,1155,15090000,,No,Synthetic demo data
+TAM0132,Uyir Saaral,2000,2000-01-26,Tamil,Tamil,India,Drama,124,6.9,1551,4320000,2460000,Yes,Synthetic demo data
+TAM0151,Payanam Kadhai,2000,2000-10-10,Tamil,Tamil,India,Drama,130,5.0,1748,17070000,11240000,Yes,Synthetic demo data
+TAM0179,Adanga Mugam,2000,2000-02-24,Tamil,Tamil,India,Sci-Fi,157,6.0,17601,1390000,4990000,No,Synthetic demo data
+TAM0207,Minnal Vizhigal,2000,2000-11-19,Tamil,Tamil,India,Romance,140,6.9,607,15120000,25200000,No,Synthetic demo data
+TAM0213,Vaanam Saaral,2000,2000-06-11,Tamil,Tamil,India,Romance,122,4.7,22568,12270000,25160000,No,Synthetic demo data
+GLB0024,Shattered Mirage,2001,2001-11-21,Worldwide,Mandarin,China,Sci-Fi,151,8.5,1509,52900000,98130000,Yes,Synthetic demo data
+GLB0042,Crimson Labyrinth,2001,2001-05-13,Worldwide,Spanish,Spain,Fantasy,86,5.6,2538,134300000,642410000,No,Synthetic demo data
+GLB0082,Silent Station,2001,2001-11-06,Worldwide,Italian,Italy,Comedy,135,6.5,4091,83000000,68110000,No,Synthetic demo data
+GLB0096,Burning Passenger,2001,2001-05-27,Worldwide,English,United Kingdom,Thriller,114,5.8,1469,30100000,20140000,No,Synthetic demo data
+GLB0105,Empty River,2001,2001-10-02,Worldwide,Spanish,Spain,Sci-Fi,103,5.7,1007,99900000,30910000,No,Synthetic demo data
+GLB0107,Distant Machine,2001,2001-10-04,Worldwide,Telugu,India,Fantasy,140,6.5,1260,180100000,650740000,No,Synthetic demo data
+GLB0109,Silent Code,2001,2001-09-22,Worldwide,Spanish,Mexico,Thriller,101,4.5,4412,54300000,175560000,No,Synthetic demo data
+GLB0154,Shattered Archive,2001,2001-11-29,Worldwide,Spanish,Mexico,Drama,137,7.5,4221,,244830000,No,Synthetic demo data
+GLB0159,Fading Paradox 2,2001,2001-08-19,Worldwide,English,United Kingdom,Animation,112,5.9,9026,26000000,43270000,No,Synthetic demo data
+GLB0160,Broken Orbit: Memory,2001,2001-01-14,Worldwide,Telugu,India,Romance,122,4.9,992,,42230000,No,Synthetic demo data
+GLB0205,Hidden Kingdom,2001,2001-12-18,Worldwide,Telugu,India,Comedy,154,,639,,32830000,Yes,Synthetic demo data
+GLB0256,Neon Afterglow,2001,2001-05-23,Worldwide,English,United Kingdom,Action,134,4.8,2732,98500000,30330000,Yes,Synthetic demo data
+GLB0257,Velvet Promise,2001,2001-10-04,Worldwide,Spanish,Spain,Crime,88,6.9,753,42600000,68030000,Yes,Synthetic demo data
+GLB0260,Secret Shadow 2,2001,2001-11-11,Worldwide,Italian,Italy,Animation,117,6.7,6787,104300000,,No,Synthetic demo data
+GLB0272,The Last Afterglow,2001,2001-10-11,Worldwide,Mandarin,China,Romance,113,5.9,5247,166900000,,No,Synthetic demo data
+GLB0297,Echoes of Atlas,2001,2001-12-24,Worldwide,Spanish,Spain,Documentary,92,6.0,2223,6000000,17980000,Yes,Synthetic demo data
+GLB0300,Echoes of Mirage: Storm,2001,2001-02-05,Worldwide,Mandarin,China,Comedy,106,8.3,3236,89700000,182490000,Yes,Synthetic demo data
+GLB0301,Paper Shadow,2001,2001-06-30,Worldwide,Malayalam,India,Crime,143,5.6,2228,76300000,61290000,No,Synthetic demo data
+GLB0307,Golden Odyssey 2,2001,2001-04-15,Worldwide,English,United States,Drama,138,7.2,357,199800000,1274790000,Yes,Synthetic demo data
+GLB0345,Infinite Passenger,2001,2001-07-20,Worldwide,Italian,Italy,Sci-Fi,138,9.2,987,192700000,166770000,No,Synthetic demo data
+GLB0441,Distant Signal,2001,2001-12-18,Worldwide,Spanish,Spain,Family,156,5.5,18870,43900000,25380000,Yes,Synthetic demo data
+TAM0002,Marupakkam Thadam,2001,2001-08-22,Tamil,Tamil,India,Fantasy,136,6.4,748,5600000,4110000,No,Synthetic demo data
+TAM0004,Vaanam Osai,2001,2001-07-08,Tamil,Tamil,India,Romance,122,7.6,897,2170000,10000000,No,Synthetic demo data
+TAM0015,Iruvizhi Thee,2001,2001-01-28,Tamil,Tamil,India,Adventure,134,6.2,1488,4800000,,Yes,Synthetic demo data
+TAM0017,Vettai Saaral,2001,2001-01-18,Tamil,Tamil,India,Drama,125,5.6,516,9050000,13410000,No,Synthetic demo data
+TAM0020,Thendral Saatchi 2,2001,2001-09-03,Tamil,Tamil,India,Drama,134,7.7,1694,,14510000,Yes,Synthetic demo data
+TAM0053,Aazhi Pookkal Part II,2001,2001-12-22,Tamil,Tamil,India,Thriller,94,4.8,3682,14700000,40470000,No,Synthetic demo data
+TAM0061,Mounam Ragasiyam Part II,2001,2001-12-09,Tamil,Tamil,India,Horror,134,5.6,1795,18170000,10950000,Yes,Synthetic demo data
+TAM0161,Kadal Sakkaram,2001,2001-10-09,Tamil,Tamil,India,Thriller,146,6.4,1722,20250000,35140000,No,Synthetic demo data
+TAM0172,Thooral Payanam,2001,2001-06-26,Tamil,Tamil,India,Mystery,160,7.2,13463,380000,620000,No,Synthetic demo data
+GLB0020,Infinite Odyssey,2002,2002-02-26,Worldwide,English,United Kingdom,Drama,87,8.6,18117,56400000,447120000,Yes,Synthetic demo data
+GLB0023,Infinite Promise,2002,2002-01-15,Worldwide,English,United Kingdom,Drama,136,7.6,7054,99700000,,Yes,Synthetic demo data
+GLB0031,Before the Afterglow,2002,2002-03-06,Worldwide,Japanese,Japan,Thriller,110,6.0,2764,36800000,24510000,Yes,Synthetic demo data
+GLB0032,Velvet Kingdom,2002,2002-12-10,Worldwide,Spanish,Spain,Comedy,117,6.1,25905,19600000,,No,Synthetic demo data
+GLB0060,Midnight Afterglow,2002,2002-11-12,Worldwide,Portuguese,Brazil,Comedy,86,7.3,3762,144400000,304300000,Yes,Synthetic demo data
+GLB0158,Wild Kingdom: Lantern,2002,2002-07-14,Worldwide,Spanish,Mexico,Thriller,118,6.2,410,105500000,110160000,Yes,Synthetic demo data
+GLB0194,Shattered Mirage 2,2002,2002-01-12,Worldwide,Italian,Italy,Action,98,4.8,878,201200000,662520000,No,Synthetic demo data
+GLB0213,Infinite Theory,2002,2002-06-06,Worldwide,German,Germany,Adventure,106,7.4,7271,2800000,5780000,Yes,Synthetic demo data
+GLB0223,Paper River,2002,2002-09-24,Worldwide,Malayalam,India,Drama,105,7.0,15723,63100000,52520000,Yes,Synthetic demo data
+GLB0240,Broken Witness,2002,2002-02-21,Worldwide,Italian,Italy,Comedy,103,6.9,12395,163800000,839550000,No,Synthetic demo data
+GLB0271,Paper Sparrow,2002,2002-12-26,Worldwide,Korean,South Korea,Romance,115,5.8,2101,23900000,34400000,No,Synthetic demo data
+GLB0281,Crimson Voyage,2002,2002-02-12,Worldwide,English,Australia,Romance,135,6.9,1483,49700000,215880000,No,Synthetic demo data
+GLB0290,Crimson Reckoning 3,2002,2002-02-22,Worldwide,French,France,Mystery,107,7.9,4298,,223440000,No,Synthetic demo data
+GLB0302,Crimson Atlas,2002,2002-11-21,Worldwide,Japanese,Japan,Romance,118,,7991,86700000,199920000,Yes,Synthetic demo data
+GLB0317,Secret River,2002,2002-07-21,Worldwide,Hindi,India,Mystery,115,5.8,4183,169000000,158130000,Yes,Synthetic demo data
+GLB0361,Velvet Lantern,2002,2002-09-30,Worldwide,Japanese,Japan,Action,89,6.3,10451,200800000,678690000,No,Synthetic demo data
+GLB0443,Infinite Archive: Wildflowers,2002,2002-11-12,Worldwide,Malayalam,India,Adventure,147,7.2,830,13800000,4260000,No,Synthetic demo data
+TAM0029,Puyal Vaasal,2002,2002-07-25,Tamil,Tamil,India,Action,122,5.6,6026,21760000,37510000,No,Synthetic demo data
+TAM0112,Nizhal Thiruppam,2002,2002-09-06,Tamil,Tamil,India,Documentary,107,6.1,5072,22890000,44350000,No,Synthetic demo data
+TAM0152,Marupakkam Aattam 2,2002,2002-01-11,Tamil,Tamil,India,Thriller,144,8.0,1923,,4190000,No,Synthetic demo data
+TAM0169,Mazhai Pookkal,2002,2002-10-28,Tamil,Tamil,India,Drama,75,6.8,2563,8720000,,No,Synthetic demo data
+GLB0013,Secret Passenger: Atlas,2003,2003-07-22,Worldwide,Mandarin,China,Drama,111,9.5,6815,1000000,,No,Synthetic demo data
+GLB0036,Forgotten Promise,2003,2003-05-19,Worldwide,Korean,South Korea,Drama,128,7.9,18517,172400000,311390000,No,Synthetic demo data
+GLB0038,Echoes of Storm,2003,2003-05-25,Worldwide,German,Germany,Comedy,99,5.7,330,162300000,320700000,Yes,Synthetic demo data
+GLB0140,Scarlet Lantern 2,2003,2003-01-23,Worldwide,French,France,Sci-Fi,113,6.3,635,151900000,173770000,Yes,Synthetic demo data
+GLB0153,Parallel Paradox,2003,2003-10-17,Worldwide,English,Australia,Drama,144,7.3,983,79700000,188540000,No,Synthetic demo data
+GLB0156,Forgotten Mirage,2003,2003-09-16,Worldwide,Portuguese,Brazil,Action,116,,1066,19700000,26130000,No,Synthetic demo data
+GLB0232,Parallel Promise,2003,2003-12-06,Worldwide,Korean,South Korea,Romance,155,6.6,7170,59000000,157300000,Yes,Synthetic demo data
+GLB0235,Velvet Atlas,2003,2003-11-25,Worldwide,Korean,South Korea,Crime,122,7.8,5315,,108000000,Yes,Synthetic demo data
+GLB0242,Lone Summit,2003,2003-02-22,Worldwide,Malayalam,India,Action,140,6.6,1011,137900000,,Yes,Synthetic demo data
+GLB0245,Starlit Machine,2003,2003-07-14,Worldwide,Telugu,India,Comedy,110,6.2,3268,177400000,151170000,No,Synthetic demo data
+GLB0275,Shattered Signal,2003,2003-01-21,Worldwide,Malayalam,India,Crime,134,7.5,467,46700000,,No,Synthetic demo data
+GLB0333,Neon Shadow,2003,2003-10-14,Worldwide,German,Germany,Documentary,87,6.6,21340,12100000,35500000,Yes,Synthetic demo data
+GLB0350,Crimson Odyssey,2003,2003-11-14,Worldwide,Hindi,India,Action,116,4.7,7270,130300000,211360000,No,Synthetic demo data
+GLB0352,Scarlet Kingdom,2003,2003-07-06,Worldwide,English,United States,Thriller,113,4.1,1192,28500000,13720000,No,Synthetic demo data
+GLB0370,Silver Crown,2003,2003-09-26,Worldwide,Italian,Italy,Adventure,86,5.8,5508,10700000,7890000,No,Synthetic demo data
+GLB0433,Starlit Sparrow 2,2003,2003-06-17,Worldwide,Mandarin,China,Thriller,137,7.2,11337,188800000,415760000,No,Synthetic demo data
+GLB0457,Final Lantern 2,2003,2003-05-05,Worldwide,German,Germany,Drama,159,7.1,12351,94700000,211550000,No,Synthetic demo data
+GLB0462,Broken City,2003,2003-05-27,Worldwide,Japanese,Japan,Drama,124,,10231,75100000,61700000,No,Synthetic demo data
+TAM0021,Kadal Osai Chapter,2003,2003-09-07,Tamil,Tamil,India,Comedy,126,5.0,4304,4870000,3630000,No,Synthetic demo data
+TAM0034,Kaalam Nilal,2003,2003-12-06,Tamil,Tamil,India,Mystery,119,5.5,1118,23460000,,No,Synthetic demo data
+TAM0081,Puyal Ellai,2003,2003-07-15,Tamil,Tamil,India,Sci-Fi,128,6.0,1796,6240000,13840000,No,Synthetic demo data
+TAM0173,Vettai Saaral 2,2003,2003-07-16,Tamil,Tamil,India,Fantasy,125,7.8,2159,17190000,28200000,No,Synthetic demo data
+TAM0192,Vaanam Vidhi,2003,2003-01-14,Tamil,Tamil,India,Animation,151,6.0,4869,2510000,2840000,Yes,Synthetic demo data
+GLB0027,Lone City,2004,2004-02-01,Worldwide,English,Australia,Sci-Fi,98,5.9,16293,140100000,1006490000,No,Synthetic demo data
+GLB0089,Midnight Voyage,2004,2004-06-15,Worldwide,Hindi,India,Drama,131,8.1,520,147600000,,Yes,Synthetic demo data
+GLB0111,Dark Archive,2004,2004-12-12,Worldwide,Spanish,Mexico,Action,118,7.6,3159,11500000,19900000,No,Synthetic demo data
+GLB0114,Parallel Horizon 2,2004,2004-08-17,Worldwide,Spanish,Spain,Drama,158,6.2,13077,55500000,,No,Synthetic demo data
+GLB0125,Neon Odyssey,2004,2004-10-04,Worldwide,Telugu,India,Mystery,140,6.8,5176,209800000,,No,Synthetic demo data
+GLB0127,Velvet Shadow,2004,2004-08-18,Worldwide,French,France,Romance,132,7.3,8686,,,Yes,Synthetic demo data
+GLB0277,Neon Mirage 2,2004,2004-02-17,Worldwide,Portuguese,Brazil,Romance,127,6.8,696,18900000,72840000,No,Synthetic demo data
+GLB0279,Burning Reckoning,2004,2004-10-03,Worldwide,English,United States,Mystery,141,,2344,154500000,222700000,No,Synthetic demo data
+GLB0315,Hidden Afterglow,2004,2004-05-21,Worldwide,Korean,South Korea,Horror,110,7.5,1122,93500000,36660000,Yes,Synthetic demo data
+GLB0338,Parallel Afterglow,2004,2004-08-19,Worldwide,Hindi,India,Sci-Fi,129,6.6,70,34000000,42700000,No,Synthetic demo data
+GLB0399,Final Theory: Paradox,2004,2004-03-03,Worldwide,Malayalam,India,Animation,109,8.1,29399,122500000,77720000,Yes,Synthetic demo data
+GLB0431,Before the Moon,2004,2004-12-20,Worldwide,English,United Kingdom,Drama,119,6.9,5902,69400000,,No,Synthetic demo data
+GLB0437,Crimson City,2004,2004-05-03,Worldwide,Malayalam,India,Mystery,121,5.2,24823,42500000,108920000,No,Synthetic demo data
+GLB0475,Forgotten Atlas,2004,2004-11-14,Worldwide,French,France,Action,111,6.5,91130,37800000,,Yes,Synthetic demo data
+TAM0018,Siragugal Osai,2004,2004-09-19,Tamil,Tamil,India,Romance,82,6.7,14098,20400000,11450000,Yes,Synthetic demo data
+TAM0045,Pudhir Vaanavil 2040,2004,2004-05-11,Tamil,Tamil,India,Mystery,96,7.6,282,13600000,,No,Synthetic demo data
+TAM0050,Oli Nilal,2004,2004-10-21,Tamil,Tamil,India,Sci-Fi,128,6.3,1081,23140000,,No,Synthetic demo data
+TAM0058,Thooral Ellai,2004,2004-05-28,Tamil,Tamil,India,Crime,155,5.5,2406,16210000,45660000,Yes,Synthetic demo data
+TAM0073,Vidiyal Ellai,2004,2004-07-29,Tamil,Tamil,India,Comedy,128,7.1,5747,15930000,3550000,No,Synthetic demo data
+TAM0076,Pudhir Kadhai,2004,2004-05-18,Tamil,Tamil,India,Fantasy,124,6.3,154,8770000,20220000,Yes,Synthetic demo data
+TAM0115,Uyir Saatchi Returns,2004,2004-03-21,Tamil,Tamil,India,Drama,95,6.1,702,20840000,42480000,Yes,Synthetic demo data
+TAM0170,Payanam Osai Part II,2004,2004-10-08,Tamil,Tamil,India,Drama,122,7.7,8496,8740000,4940000,No,Synthetic demo data
+TAM0184,Nenjil Meendum,2004,2004-06-14,Tamil,Tamil,India,Horror,148,7.0,2132,7910000,8960000,No,Synthetic demo data
+TAM0197,Thendral Vizhigal,2004,2004-08-31,Tamil,Tamil,India,Romance,75,6.3,291,14170000,26710000,No,Synthetic demo data
+TAM0203,Vettai Vidhi Chapter,2004,2004-04-14,Tamil,Tamil,India,Thriller,120,7.7,2171,6800000,8540000,No,Synthetic demo data
+TAM0209,Kadal Sakkaram 2,2004,2004-03-01,Tamil,Tamil,India,Adventure,90,5.3,8992,17100000,22980000,No,Synthetic demo data
+TAM0214,Nilavu Mugam,2004,2004-03-22,Tamil,Tamil,India,Family,109,,940,14860000,18140000,No,Synthetic demo data
+GLB0007,The Last Garden: Witness,2005,2005-10-17,Worldwide,Spanish,Spain,Horror,102,6.4,1284,89500000,,No,Synthetic demo data
+GLB0021,Infinite Kingdom,2005,2005-09-29,Worldwide,Hindi,India,Comedy,117,7.1,1168,49100000,56880000,No,Synthetic demo data
+GLB0043,Fading Orbit,2005,2005-11-15,Worldwide,Korean,South Korea,Crime,132,7.2,606,56100000,54540000,Yes,Synthetic demo data
+GLB0088,Infinite Kingdom 2,2005,2005-03-15,Worldwide,German,Germany,Drama,86,8.1,25341,114900000,,No,Synthetic demo data
+GLB0097,Lone Witness: Reckoning,2005,2005-10-28,Worldwide,Italian,Italy,Mystery,93,,35015,132000000,,No,Synthetic demo data
+GLB0121,Before the Shadow,2005,2005-04-29,Worldwide,Spanish,Spain,Animation,112,5.6,1127,40600000,,No,Synthetic demo data
+GLB0149,Infinite Moon: Horizon,2005,2005-12-10,Worldwide,English,United States,Comedy,95,5.4,732,206700000,365170000,No,Synthetic demo data
+GLB0163,Dark Station,2005,2005-12-25,Worldwide,Japanese,Japan,Drama,114,6.6,899,80200000,132680000,No,Synthetic demo data
+GLB0172,Burning Afterglow,2005,2005-11-29,Worldwide,Telugu,India,Family,92,5.8,2886,153200000,226540000,Yes,Synthetic demo data
+GLB0196,Fading Reckoning 2,2005,2005-05-01,Worldwide,English,United Kingdom,Action,106,6.4,836,139600000,509660000,No,Synthetic demo data
+GLB0258,Beyond Storm,2005,2005-01-12,Worldwide,Spanish,Spain,Action,77,8.6,4099,95800000,323860000,Yes,Synthetic demo data
+GLB0310,Parallel Horizon: Witness,2005,2005-09-26,Worldwide,French,France,Mystery,75,6.6,3983,70800000,14920000,Yes,Synthetic demo data
+GLB0313,Empty Mirage,2005,2005-01-09,Worldwide,English,United States,Thriller,118,5.9,964,109300000,,No,Synthetic demo data
+GLB0336,Broken Theory 2,2005,2005-05-01,Worldwide,Hindi,India,Adventure,127,7.1,5048,82800000,113420000,No,Synthetic demo data
+GLB0349,Lone Moon 2,2005,2005-03-14,Worldwide,Portuguese,Brazil,Mystery,128,6.9,29183,182300000,598230000,No,Synthetic demo data
+GLB0365,Burning Frequency,2005,2005-08-17,Worldwide,English,United States,Drama,138,6.9,5963,77200000,36590000,No,Synthetic demo data
+GLB0393,Broken Storm 2,2005,2005-11-12,Worldwide,English,United Kingdom,Drama,122,7.5,7366,113300000,65370000,No,Synthetic demo data
+GLB0396,Scarlet Labyrinth 2,2005,2005-11-21,Worldwide,English,United Kingdom,Fantasy,118,6.4,1826,139400000,,Yes,Synthetic demo data
+GLB0438,Midnight Moon: Paradox,2005,2005-08-13,Worldwide,Japanese,Japan,Fantasy,113,5.8,717,130100000,111700000,Yes,Synthetic demo data
+GLB0450,Fading Crown: Kingdom,2005,2005-02-24,Worldwide,French,France,Drama,124,7.7,434,155800000,156490000,No,Synthetic demo data
+GLB0478,Empty Wildflowers,2005,2005-02-23,Worldwide,English,United States,Crime,136,5.3,14804,174000000,366820000,No,Synthetic demo data
+TAM0006,Oru Pudhiya Kadhai,2005,2005-01-13,Tamil,Tamil,India,Adventure,106,5.5,2396,10730000,15880000,No,Synthetic demo data
+TAM0064,Minnal Thiruppam,2005,2005-04-18,Tamil,Tamil,India,Drama,87,6.1,1214,17450000,22160000,No,Synthetic demo data
+TAM0136,Mounam Thee,2005,2005-01-09,Tamil,Tamil,India,Action,127,7.9,2005,19250000,38980000,Yes,Synthetic demo data
+TAM0143,Oli Saaral Part II,2005,2005-02-15,Tamil,Tamil,India,Thriller,110,6.2,23620,19320000,36510000,Yes,Synthetic demo data
+TAM0146,Kaalam Ulagam 2,2005,2005-07-01,Tamil,Tamil,India,Action,120,4.9,1633,4830000,7270000,No,Synthetic demo data
+TAM0175,Veeran Ulagam 2,2005,2005-09-25,Tamil,Tamil,India,Family,126,7.2,3317,2910000,4950000,Yes,Synthetic demo data
+TAM0176,Nenjil Thuli,2005,2005-04-11,Tamil,Tamil,India,Romance,144,7.1,6429,2330000,3150000,No,Synthetic demo data
+TAM0198,Kadal Mugam,2005,2005-10-28,Tamil,Tamil,India,Mystery,137,5.9,1179,14040000,33590000,No,Synthetic demo data
+TAM0205,Thooral Pookkal Returns,2005,2005-12-26,Tamil,Tamil,India,Comedy,120,5.6,20961,18310000,8130000,No,Synthetic demo data
+TAM0216,Anbu Vettai,2005,2005-07-13,Tamil,Tamil,India,Romance,155,,1117,18200000,48500000,No,Synthetic demo data
+TAM0217,Pudhir Vizhigal 2040,2005,2005-04-06,Tamil,Tamil,India,Comedy,144,7.1,1687,8020000,,Yes,Synthetic demo data
+GLB0002,Scarlet Theory,2006,2006-01-06,Worldwide,English,United States,Sci-Fi,140,7.4,18114,,384680000,No,Synthetic demo data
+GLB0003,Before the Storm: Paradox,2006,2006-05-12,Worldwide,Mandarin,China,Adventure,119,7.7,181,85700000,259620000,No,Synthetic demo data
+GLB0005,Final Kingdom,2006,2006-12-03,Worldwide,Spanish,Spain,Comedy,151,7.2,1062,75400000,170360000,Yes,Synthetic demo data
+GLB0009,Empty Crown,2006,2006-01-27,Worldwide,Portuguese,Brazil,Action,139,,26122,92600000,,No,Synthetic demo data
+GLB0025,Neon Silence: Moon,2006,2006-03-27,Worldwide,Spanish,Spain,Thriller,118,6.6,8019,10400000,,No,Synthetic demo data
+GLB0030,Forgotten Memory,2006,2006-01-19,Worldwide,Telugu,India,Thriller,143,7.9,6985,,160890000,No,Synthetic demo data
+GLB0090,Neon Summit,2006,2006-07-26,Worldwide,Korean,South Korea,Fantasy,121,6.0,9814,176100000,732740000,Yes,Synthetic demo data
+GLB0151,Hidden Memory: Archive,2006,2006-12-06,Worldwide,English,United Kingdom,Comedy,100,4.2,1333,,136140000,No,Synthetic demo data
+GLB0152,Lone Orbit,2006,2006-04-08,Worldwide,Mandarin,China,Comedy,127,6.9,1129,14500000,14270000,No,Synthetic demo data
+GLB0208,Velvet Odyssey,2006,2006-05-13,Worldwide,German,Germany,Mystery,120,5.3,12250,193900000,196360000,Yes,Synthetic demo data
+GLB0262,Hidden River,2006,2006-02-13,Worldwide,Portuguese,Brazil,Comedy,76,6.6,4335,46300000,22520000,No,Synthetic demo data
+GLB0326,Paper Summit: Shadow,2006,2006-09-21,Worldwide,Portuguese,Brazil,Horror,117,7.3,2250,208300000,72310000,No,Synthetic demo data
+GLB0335,Parallel Mirage 3,2006,2006-07-10,Worldwide,Hindi,India,Adventure,139,5.5,4300,,86800000,Yes,Synthetic demo data
+GLB0386,Secret Orbit,2006,2006-09-12,Worldwide,Telugu,India,Action,110,7.0,2197,219800000,377950000,Yes,Synthetic demo data
+GLB0387,Lone Summit 2,2006,2006-04-20,Worldwide,English,Australia,Action,137,4.8,2317,5900000,4470000,No,Synthetic demo data
+GLB0427,Golden Code,2006,2006-07-16,Worldwide,Spanish,Spain,Comedy,107,6.3,19639,86000000,254700000,No,Synthetic demo data
+GLB0445,Starlit Orbit,2006,2006-02-26,Worldwide,Hindi,India,Adventure,137,7.5,5761,22500000,38050000,Yes,Synthetic demo data
+GLB0458,Paper City,2006,2006-07-13,Worldwide,German,Germany,Family,142,7.1,2384,78200000,306160000,No,Synthetic demo data
+GLB0465,Electric Afterglow,2006,2006-12-25,Worldwide,Mandarin,China,Drama,126,7.4,12074,57000000,410650000,Yes,Synthetic demo data
+TAM0001,Payanam Saaral,2006,2006-11-15,Tamil,Tamil,India,Horror,108,6.2,6301,23550000,,Yes,Synthetic demo data
+TAM0048,Nilavu Meendum,2006,2006-11-06,Tamil,Tamil,India,Action,137,5.6,3000,14750000,34150000,No,Synthetic demo data
+TAM0116,Anbu Kanakku,2006,2006-05-26,Tamil,Tamil,India,Adventure,101,6.9,2398,11200000,17860000,No,Synthetic demo data
+TAM0122,Iruvizhi Vettai 2,2006,2006-05-18,Tamil,Tamil,India,Comedy,111,8.1,806,24210000,85890000,No,Synthetic demo data
+TAM0124,Mazhai Kural,2006,2006-07-15,Tamil,Tamil,India,Drama,139,6.4,4300,7080000,20590000,Yes,Synthetic demo data
+TAM0139,Adanga Paadhai,2006,2006-11-11,Tamil,Tamil,India,Documentary,124,6.7,367,17360000,44820000,No,Synthetic demo data
+TAM0147,Siragugal Pookkal Returns,2006,2006-06-14,Tamil,Tamil,India,Horror,131,8.4,361,,2090000,No,Synthetic demo data
+TAM0190,Mazhai Ulagam,2006,2006-07-12,Tamil,Tamil,India,Crime,147,7.1,21528,,23560000,No,Synthetic demo data
+GLB0004,Golden Frequency,2007,2007-10-14,Worldwide,Italian,Italy,Comedy,121,6.9,2004,149800000,126530000,No,Synthetic demo data
+GLB0047,Secret Afterglow,2007,2007-09-04,Worldwide,Spanish,Spain,Adventure,80,7.0,85469,,,Yes,Synthetic demo data
+GLB0051,Scarlet Lantern,2007,2007-05-05,Worldwide,English,Australia,Family,97,6.4,2274,209800000,306620000,No,Synthetic demo data
+GLB0057,Dark Storm,2007,2007-02-09,Worldwide,Mandarin,China,Horror,139,7.3,930,133000000,592070000,No,Synthetic demo data
+GLB0139,Shattered Garden,2007,2007-07-19,Worldwide,Italian,Italy,Drama,104,6.3,2217,80900000,19690000,Yes,Synthetic demo data
+GLB0168,Silver Memory,2007,2007-02-25,Worldwide,English,Australia,Drama,128,5.6,1685,208800000,685970000,No,Synthetic demo data
+GLB0178,Before the Atlas,2007,2007-04-17,Worldwide,Portuguese,Brazil,Drama,101,7.4,3508,56500000,67160000,Yes,Synthetic demo data
+GLB0189,Wild Odyssey: Witness,2007,2007-10-17,Worldwide,English,United States,Family,132,6.0,1571,188800000,371720000,No,Synthetic demo data
+GLB0261,Golden Odyssey,2007,2007-12-28,Worldwide,English,United States,Romance,104,6.2,481,181400000,281640000,No,Synthetic demo data
+GLB0299,The Last Crown: Machine,2007,2007-10-04,Worldwide,German,Germany,Comedy,95,6.2,3841,109200000,85640000,No,Synthetic demo data
+GLB0341,Final Lantern,2007,2007-06-25,Worldwide,Spanish,Spain,Comedy,113,4.7,8394,,395490000,No,Synthetic demo data
+GLB0351,Hidden Paradox: Voyage,2007,2007-05-26,Worldwide,German,Germany,Comedy,133,7.2,41304,66200000,41460000,Yes,Synthetic demo data
+GLB0363,Burning Summit,2007,2007-07-07,Worldwide,Malayalam,India,Romance,101,6.9,16998,45500000,23170000,No,Synthetic demo data
+GLB0368,Crimson Labyrinth: Passenger,2007,2007-08-30,Worldwide,Korean,South Korea,Documentary,102,7.3,177,149600000,216470000,Yes,Synthetic demo data
+GLB0382,Shattered Archive 2,2007,2007-10-18,Worldwide,Malayalam,India,Drama,95,7.8,3097,2900000,2320000,No,Synthetic demo data
+GLB0405,Hidden Summit,2007,2007-07-28,Worldwide,French,France,Thriller,109,7.7,15086,87300000,170260000,No,Synthetic demo data
+GLB0414,Midnight Shadow,2007,2007-01-18,Worldwide,English,United Kingdom,Mystery,110,6.2,2582,216600000,507980000,No,Synthetic demo data
+GLB0423,Midnight Paradox,2007,2007-05-03,Worldwide,English,United States,Family,144,5.7,79287,189500000,169830000,Yes,Synthetic demo data
+GLB0434,Before the Voyage: Witness,2007,2007-11-25,Worldwide,Portuguese,Brazil,Documentary,123,8.4,1253,213100000,159780000,Yes,Synthetic demo data
+GLB0454,Lone Wildflowers,2007,2007-09-20,Worldwide,Spanish,Spain,Romance,117,7.9,5389,5400000,43440000,No,Synthetic demo data
+TAM0028,Oli Meendum,2007,2007-01-22,Tamil,Tamil,India,Sci-Fi,110,6.5,1162,10230000,28780000,No,Synthetic demo data
+TAM0102,Vaanam Payanam,2007,2007-07-15,Tamil,Tamil,India,Action,140,6.5,18269,9790000,8180000,Yes,Synthetic demo data
+TAM0103,Pudhir Puyal 2040,2007,2007-06-22,Tamil,Tamil,India,Mystery,152,6.1,480,24340000,34170000,No,Synthetic demo data
+TAM0137,Thooral Pookkal Part II,2007,2007-10-16,Tamil,Tamil,India,Action,84,8.7,1548,18840000,27370000,Yes,Synthetic demo data
+TAM0186,Marupakkam Sakkaram,2007,2007-05-08,Tamil,Tamil,India,Adventure,122,3.5,534,14430000,13170000,No,Synthetic demo data
+GLB0018,Velvet Frontier,2008,2008-01-04,Worldwide,English,United Kingdom,Romance,128,6.3,7788,69300000,280430000,No,Synthetic demo data
+GLB0033,Golden Silence,2008,2008-12-16,Worldwide,Japanese,Japan,Animation,120,7.1,2484,132900000,100220000,Yes,Synthetic demo data
+GLB0040,Scarlet Labyrinth,2008,2008-12-02,Worldwide,English,Australia,Crime,101,6.0,15907,185900000,84520000,No,Synthetic demo data
+GLB0048,Wild Frontier,2008,2008-11-22,Worldwide,Telugu,India,Sci-Fi,75,8.4,85466,192900000,228070000,No,Synthetic demo data
+GLB0062,Silver Horizon,2008,2008-09-10,Worldwide,Telugu,India,Comedy,85,7.2,4507,130300000,72450000,Yes,Synthetic demo data
+GLB0120,Electric Code,2008,2008-01-15,Worldwide,English,United Kingdom,Adventure,110,5.2,24832,123200000,79460000,Yes,Synthetic demo data
+GLB0123,Secret Shadow,2008,2008-08-16,Worldwide,Italian,Italy,Action,117,6.6,2759,184300000,256450000,No,Synthetic demo data
+GLB0124,Forgotten Summit,2008,2008-01-12,Worldwide,Mandarin,China,Crime,125,8.5,28325,77600000,106520000,Yes,Synthetic demo data
+GLB0134,Hidden Reckoning,2008,2008-05-18,Worldwide,Portuguese,Brazil,Comedy,133,5.8,2791,69800000,52010000,No,Synthetic demo data
+GLB0141,Final Witness,2008,2008-02-07,Worldwide,Korean,South Korea,Fantasy,118,7.7,3603,86900000,202970000,Yes,Synthetic demo data
+GLB0150,Empty River 2,2008,2008-11-11,Worldwide,English,Australia,Drama,119,7.5,7246,183500000,296080000,Yes,Synthetic demo data
+GLB0176,Distant Garden 2,2008,2008-07-23,Worldwide,French,France,Action,146,7.6,242,121200000,142600000,No,Synthetic demo data
+GLB0177,Echoes of Empire,2008,2008-09-24,Worldwide,Portuguese,Brazil,Horror,126,6.0,15718,218700000,258750000,No,Synthetic demo data
+GLB0238,Broken Moon: Promise,2008,2008-07-23,Worldwide,Hindi,India,Mystery,146,6.8,1661,48200000,130150000,No,Synthetic demo data
+GLB0269,Scarlet Witness,2008,2008-10-24,Worldwide,Japanese,Japan,Action,131,6.0,203,105300000,224560000,No,Synthetic demo data
+GLB0282,Crimson Machine,2008,2008-08-10,Worldwide,Hindi,India,Fantasy,79,6.4,10755,92800000,110750000,Yes,Synthetic demo data
+GLB0343,Final Silence,2008,2008-01-02,Worldwide,Portuguese,Brazil,Animation,113,6.9,4744,210700000,247550000,No,Synthetic demo data
+GLB0348,Parallel Afterglow 2,2008,2008-09-29,Worldwide,Italian,Italy,Family,110,5.8,16258,39900000,25330000,Yes,Synthetic demo data
+GLB0424,Echoes of Archive,2008,2008-08-08,Worldwide,English,Australia,Adventure,115,,528,173400000,51990000,No,Synthetic demo data
+GLB0442,Parallel Frontier: Orbit,2008,2008-01-26,Worldwide,Italian,Italy,Comedy,152,6.5,4380,96200000,128690000,No,Synthetic demo data
+TAM0049,Vaanam Osai Ragasiyam,2008,2008-09-24,Tamil,Tamil,India,Adventure,169,5.6,1517,16220000,15930000,Yes,Synthetic demo data
+TAM0060,Iruvizhi Neram,2008,2008-11-30,Tamil,Tamil,India,Action,127,4.0,3928,15970000,22920000,Yes,Synthetic demo data
+TAM0101,Vaanam Thadam,2008,2008-03-14,Tamil,Tamil,India,Drama,101,,263,19470000,,No,Synthetic demo data
+TAM0104,Sutrula Kural 2,2008,2008-09-06,Tamil,Tamil,India,Thriller,91,7.6,138,9400000,56610000,Yes,Synthetic demo data
+TAM0130,Puyal Thiruppam,2008,2008-11-02,Tamil,Tamil,India,Crime,123,5.9,2951,650000,2200000,Yes,Synthetic demo data
+TAM0218,Mounam Deepam,2008,2008-01-13,Tamil,Tamil,India,Comedy,101,6.0,689,11820000,6410000,Yes,Synthetic demo data
+GLB0011,Final Signal,2009,2009-10-23,Worldwide,English,Australia,Romance,136,7.2,4400,181300000,479690000,Yes,Synthetic demo data
+GLB0092,Golden River,2009,2009-11-17,Worldwide,Portuguese,Brazil,Drama,146,6.2,547,42600000,23430000,No,Synthetic demo data
+GLB0095,Distant Garden,2009,2009-08-27,Worldwide,Spanish,Spain,Thriller,99,8.2,4039,99600000,147760000,No,Synthetic demo data
+GLB0098,Forgotten City,2009,2009-11-23,Worldwide,English,United Kingdom,Drama,125,5.9,5072,145700000,166960000,No,Synthetic demo data
+GLB0113,Burning Promise,2009,2009-09-08,Worldwide,Portuguese,Brazil,Drama,95,5.2,3304,73300000,52190000,No,Synthetic demo data
+GLB0119,Velvet Crown,2009,2009-09-13,Worldwide,Malayalam,India,Thriller,106,5.4,2141,25900000,84170000,No,Synthetic demo data
+GLB0129,Silent Atlas,2009,2009-10-28,Worldwide,Spanish,Spain,Drama,77,6.3,18016,148200000,151860000,No,Synthetic demo data
+GLB0202,Distant Witness,2009,2009-03-17,Worldwide,German,Germany,Family,125,7.5,54362,192800000,300230000,No,Synthetic demo data
+GLB0218,Midnight Labyrinth,2009,2009-10-26,Worldwide,German,Germany,Family,114,6.4,743,209000000,,No,Synthetic demo data
+GLB0219,The Last Witness,2009,2009-06-17,Worldwide,Portuguese,Brazil,Drama,117,6.5,25637,177400000,,No,Synthetic demo data
+GLB0250,Before the Empire,2009,2009-03-18,Worldwide,English,United States,Thriller,95,5.5,212,,170380000,No,Synthetic demo data
+GLB0280,Crimson Reckoning 2,2009,2009-07-21,Worldwide,Spanish,Spain,Action,108,6.1,3086,187800000,287500000,Yes,Synthetic demo data
+GLB0318,Velvet Sparrow,2009,2009-05-02,Worldwide,English,Australia,Drama,158,5.0,2566,80600000,89400000,Yes,Synthetic demo data
+GLB0325,Electric Promise,2009,2009-10-31,Worldwide,English,Australia,Drama,124,9.1,4319,17000000,,No,Synthetic demo data
+GLB0339,Golden Summit,2009,2009-12-23,Worldwide,English,United Kingdom,Family,80,6.9,13198,135400000,158400000,Yes,Synthetic demo data
+GLB0381,Paper Archive,2009,2009-03-18,Worldwide,Mandarin,China,Drama,136,7.6,3930,102300000,515750000,Yes,Synthetic demo data
+GLB0401,Velvet Voyage 2,2009,2009-04-15,Worldwide,English,United Kingdom,Family,122,5.9,3421,23800000,24330000,No,Synthetic demo data
+GLB0418,Secret Reckoning,2009,2009-01-08,Worldwide,French,France,Romance,112,5.4,5090,6200000,15900000,No,Synthetic demo data
+GLB0447,The Last Kingdom,2009,2009-06-13,Worldwide,Malayalam,India,Adventure,127,6.6,8415,86600000,,No,Synthetic demo data
+GLB0467,Broken Silence,2009,2009-06-22,Worldwide,Spanish,Mexico,Thriller,88,7.3,7335,173500000,175790000,No,Synthetic demo data
+TAM0069,Neruppu Vaasal,2009,2009-05-21,Tamil,Tamil,India,Romance,147,7.4,1797,22090000,28650000,No,Synthetic demo data
+TAM0079,Nizhal Vaanavil,2009,2009-08-01,Tamil,Tamil,India,Family,91,5.2,750,5820000,4760000,No,Synthetic demo data
+TAM0128,Aazhi Sakkaram,2009,2009-08-05,Tamil,Tamil,India,Drama,105,5.0,2985,8630000,2290000,No,Synthetic demo data
+TAM0193,Vaanam Vaasal 2,2009,2009-08-13,Tamil,Tamil,India,Mystery,140,6.7,982,24500000,37970000,No,Synthetic demo data
+GLB0029,Echoes of Witness,2010,2010-10-14,Worldwide,English,Australia,Romance,116,6.1,7021,20700000,20590000,No,Synthetic demo data
+GLB0054,Midnight Wildflowers,2010,2010-07-29,Worldwide,Italian,Italy,Drama,108,5.5,5504,208900000,402850000,No,Synthetic demo data
+GLB0078,Dark Archive: Voyage,2010,2010-12-11,Worldwide,Telugu,India,Sci-Fi,110,6.7,1144,205700000,522360000,No,Synthetic demo data
+GLB0143,Beyond Summit,2010,2010-08-16,Worldwide,Telugu,India,Family,135,7.8,8996,192700000,437860000,Yes,Synthetic demo data
+GLB0147,Electric Machine,2010,2010-08-16,Worldwide,Malayalam,India,Documentary,125,7.8,9727,63700000,76120000,Yes,Synthetic demo data
+GLB0170,Wild Labyrinth,2010,2010-05-14,Worldwide,Italian,Italy,Drama,145,7.1,243,35800000,67410000,No,Synthetic demo data
+GLB0182,Dark River,2010,2010-05-09,Worldwide,German,Germany,Sci-Fi,110,5.9,2670,103000000,162310000,No,Synthetic demo data
+GLB0186,Echoes of Moon: Crown,2010,2010-08-02,Worldwide,Mandarin,China,Sci-Fi,117,6.7,512,,15580000,Yes,Synthetic demo data
+GLB0198,Secret City,2010,2010-07-28,Worldwide,English,Australia,Romance,136,,913,29100000,,Yes,Synthetic demo data
+GLB0199,Silent Horizon: Atlas,2010,2010-05-03,Worldwide,English,United States,Thriller,117,7.9,1379,114800000,,Yes,Synthetic demo data
+GLB0206,Shattered Frequency,2010,2010-04-14,Worldwide,Hindi,India,Sci-Fi,97,5.9,5372,164900000,182560000,No,Synthetic demo data
+GLB0253,Velvet Voyage,2010,2010-06-19,Worldwide,English,United States,Drama,86,7.1,760,114200000,110430000,No,Synthetic demo data
+GLB0254,Echoes of City,2010,2010-07-13,Worldwide,Spanish,Mexico,Sci-Fi,88,7.4,925,44400000,61130000,Yes,Synthetic demo data
+GLB0259,Beyond Afterglow,2010,2010-02-10,Worldwide,English,United States,Horror,121,6.3,2275,109700000,280660000,No,Synthetic demo data
+GLB0267,Forgotten Empire,2010,2010-12-17,Worldwide,Malayalam,India,Crime,106,7.6,14534,202900000,220880000,No,Synthetic demo data
+GLB0274,Secret Voyage,2010,2010-12-06,Worldwide,Malayalam,India,Adventure,99,8.5,122429,172500000,658430000,No,Synthetic demo data
+GLB0285,Silent Lantern: Atlas,2010,2010-09-11,Worldwide,Portuguese,Brazil,Adventure,142,5.2,3123,25000000,33260000,Yes,Synthetic demo data
+GLB0286,Starlit Sparrow,2010,2010-09-26,Worldwide,German,Germany,Romance,106,6.0,717,34500000,,No,Synthetic demo data
+GLB0303,Forgotten Memory 2,2010,2010-11-12,Worldwide,German,Germany,Horror,116,6.3,2075,115600000,304590000,Yes,Synthetic demo data
+GLB0327,Broken Frontier: Archive,2010,2010-01-03,Worldwide,Hindi,India,Crime,100,6.9,283,,462120000,No,Synthetic demo data
+GLB0328,Burning Theory,2010,2010-11-05,Worldwide,Portuguese,Brazil,Action,105,6.5,2245,15500000,26720000,Yes,Synthetic demo data
+GLB0346,Shattered Moon: Wildflowers,2010,2010-04-28,Worldwide,Mandarin,China,Thriller,108,6.1,1161,77600000,53020000,No,Synthetic demo data
+GLB0385,Electric Theory: Memory,2010,2010-10-30,Worldwide,Portuguese,Brazil,Mystery,131,5.1,721,179600000,158370000,No,Synthetic demo data
+GLB0391,Empty Promise: Kingdom,2010,2010-10-10,Worldwide,Spanish,Mexico,Drama,138,6.4,6180,104500000,136340000,No,Synthetic demo data
+GLB0435,Beyond Signal 2,2010,2010-09-08,Worldwide,French,France,Comedy,115,5.5,5150,183300000,70660000,No,Synthetic demo data
+GLB0444,Burning Crown 2,2010,2010-02-16,Worldwide,Mandarin,China,Romance,118,7.0,1103,173000000,344590000,No,Synthetic demo data
+GLB0449,Before the Summit,2010,2010-10-25,Worldwide,French,France,Action,162,8.5,2948,208900000,167640000,Yes,Synthetic demo data
+GLB0474,Lone Memory,2010,2010-02-23,Worldwide,English,Australia,Romance,122,6.2,343,43400000,31340000,No,Synthetic demo data
+GLB0479,Parallel Witness 2,2010,2010-06-26,Worldwide,English,Australia,Action,124,5.7,971,105500000,58380000,No,Synthetic demo data
+TAM0008,Sutrula Puyal,2010,2010-03-09,Tamil,Tamil,India,Horror,114,7.0,1500,,58150000,Yes,Synthetic demo data
+TAM0019,Iruvizhi Ulagam,2010,2010-06-29,Tamil,Tamil,India,Crime,146,,4262,7810000,,No,Synthetic demo data
+TAM0024,Marupakkam Vizhigal,2010,2010-07-17,Tamil,Tamil,India,Romance,86,6.2,1422,20380000,,No,Synthetic demo data
+TAM0033,Kanavu Paadhai,2010,2010-09-07,Tamil,Tamil,India,Drama,142,7.9,8081,2150000,3060000,No,Synthetic demo data
+TAM0055,Marupakkam Thuli,2010,2010-11-16,Tamil,Tamil,India,Action,136,,2177,,2240000,Yes,Synthetic demo data
+TAM0086,Nizhal Thuli,2010,2010-06-03,Tamil,Tamil,India,Thriller,97,6.1,6582,7580000,8500000,Yes,Synthetic demo data
+TAM0180,Mazhai Kanakku,2010,2010-10-06,Tamil,Tamil,India,Sci-Fi,154,7.7,208,1050000,1720000,Yes,Synthetic demo data
+TAM0183,Kanavu Thuli,2010,2010-09-05,Tamil,Tamil,India,Adventure,100,5.7,1035,17450000,,No,Synthetic demo data
+GLB0052,Lone Station,2011,2011-10-17,Worldwide,Malayalam,India,Action,95,7.8,5758,101400000,101400000,Yes,Synthetic demo data
+GLB0081,Crimson Code 2,2011,2011-10-09,Worldwide,Italian,Italy,Documentary,76,6.4,6272,131000000,420630000,No,Synthetic demo data
+GLB0296,Shattered Silence 2,2011,2011-02-21,Worldwide,Malayalam,India,Drama,129,6.0,1690,58000000,118280000,No,Synthetic demo data
+GLB0353,Crimson Horizon: Horizon,2011,2011-05-27,Worldwide,Korean,South Korea,Adventure,134,6.0,2538,210500000,535130000,Yes,Synthetic demo data
+GLB0416,Secret Silence: Paradox,2011,2011-05-06,Worldwide,Hindi,India,Thriller,84,4.9,3381,200800000,155960000,Yes,Synthetic demo data
+GLB0417,Shattered Shadow: Orbit,2011,2011-06-15,Worldwide,Spanish,Spain,Thriller,98,,1544,5800000,9910000,Yes,Synthetic demo data
+GLB0464,The Last Reckoning,2011,2011-12-19,Worldwide,Italian,Italy,Action,114,6.5,1029,,182460000,Yes,Synthetic demo data
+GLB0469,Velvet Mirage,2011,2011-04-07,Worldwide,Spanish,Mexico,Comedy,124,,3588,131000000,86590000,No,Synthetic demo data
+TAM0010,Sutrula Payanam,2011,2011-12-17,Tamil,Tamil,India,Action,146,7.5,571,13950000,20770000,No,Synthetic demo data
+TAM0032,Marupakkam Suvadugal,2011,2011-03-20,Tamil,Tamil,India,Action,106,7.9,2222,11050000,31710000,No,Synthetic demo data
+TAM0041,Mazhai Mugam,2011,2011-01-05,Tamil,Tamil,India,Drama,153,6.3,2641,18830000,,No,Synthetic demo data
+TAM0046,Nizhal Ellai,2011,2011-11-30,Tamil,Tamil,India,Fantasy,134,8.1,1256,18190000,11140000,Yes,Synthetic demo data
+TAM0066,Adanga Osai,2011,2011-10-14,Tamil,Tamil,India,Mystery,120,8.4,2722,,,Yes,Synthetic demo data
+TAM0113,Oli Thuli 2,2011,2011-08-07,Tamil,Tamil,India,Romance,108,6.5,4042,17840000,20710000,Yes,Synthetic demo data
+TAM0156,Kaalam Ragasiyam,2011,2011-06-25,Tamil,Tamil,India,Comedy,112,5.6,1485,21750000,,No,Synthetic demo data
+TAM0157,Thendral Thuli,2011,2011-11-02,Tamil,Tamil,India,Drama,126,8.7,2340,13460000,9880000,No,Synthetic demo data
+TAM0158,Siragugal Kadhai,2011,2011-04-02,Tamil,Tamil,India,Romance,115,5.5,1532,15830000,,No,Synthetic demo data
+TAM0165,Mazhai Paadhai,2011,2011-08-02,Tamil,Tamil,India,Crime,154,8.1,582,20510000,10490000,No,Synthetic demo data
+TAM0181,Payanam Saatchi,2011,2011-09-27,Tamil,Tamil,India,Horror,137,6.0,328,15190000,,No,Synthetic demo data
+TAM0206,Uyir Thadam,2011,2011-03-21,Tamil,Tamil,India,Thriller,143,6.1,2736,8230000,31170000,Yes,Synthetic demo data
+TAM0219,Uyir Ragasiyam,2011,2011-04-04,Tamil,Tamil,India,Action,148,6.7,1575,13910000,,Yes,Synthetic demo data
+GLB0017,Frozen Voyage,2012,2012-03-29,Worldwide,Japanese,Japan,Family,113,6.9,2454,93300000,,No,Synthetic demo data
+GLB0055,Broken Signal,2012,2012-02-24,Worldwide,English,United States,Adventure,146,5.5,32758,17900000,9200000,No,Synthetic demo data
+GLB0063,Frozen Moon: Memory,2012,2012-11-13,Worldwide,Hindi,India,Horror,137,7.4,11088,166200000,335700000,No,Synthetic demo data
+GLB0117,Lone Moon,2012,2012-02-29,Worldwide,Telugu,India,Adventure,137,6.9,1477,99800000,151030000,No,Synthetic demo data
+GLB0130,Silent Signal: Paradox,2012,2012-08-13,Worldwide,English,Australia,Family,137,,9618,20400000,20800000,No,Synthetic demo data
+GLB0166,Infinite Afterglow,2012,2012-02-24,Worldwide,Telugu,India,Sci-Fi,97,6.6,7629,112800000,27620000,No,Synthetic demo data
+GLB0169,Forgotten Horizon,2012,2012-07-12,Worldwide,English,United Kingdom,Drama,104,6.8,3639,98300000,78440000,Yes,Synthetic demo data
+GLB0185,Burning River,2012,2012-03-10,Worldwide,Mandarin,China,Crime,102,6.2,8423,90000000,181390000,No,Synthetic demo data
+GLB0220,Silent City,2012,2012-11-16,Worldwide,Mandarin,China,Sci-Fi,111,,33839,127300000,107390000,No,Synthetic demo data
+GLB0230,Golden Moon,2012,2012-06-27,Worldwide,Telugu,India,Adventure,115,6.9,620,159400000,61210000,Yes,Synthetic demo data
+GLB0236,Burning Mirage: Garden,2012,2012-10-10,Worldwide,English,United States,Romance,119,6.6,2744,101600000,276710000,No,Synthetic demo data
+GLB0237,Scarlet River,2012,2012-11-14,Worldwide,Mandarin,China,Action,82,6.4,5060,46300000,105550000,Yes,Synthetic demo data
+GLB0241,Silver Moon,2012,2012-05-29,Worldwide,English,Australia,Thriller,105,7.7,14139,213400000,1076030000,Yes,Synthetic demo data
+GLB0248,Infinite Passenger: Archive,2012,2012-03-11,Worldwide,English,United States,Action,108,5.5,15567,179700000,55720000,No,Synthetic demo data
+GLB0330,The Last Silence,2012,2012-04-18,Worldwide,Hindi,India,Crime,103,6.6,2226,81900000,268330000,No,Synthetic demo data
+GLB0372,Rising Signal,2012,2012-05-20,Worldwide,Mandarin,China,Thriller,141,4.6,9828,,205240000,No,Synthetic demo data
+GLB0408,Forgotten City: Passenger,2012,2012-07-06,Worldwide,Spanish,Mexico,Action,119,5.2,984,53500000,,Yes,Synthetic demo data
+GLB0420,Secret Theory: Moon,2012,2012-03-06,Worldwide,Malayalam,India,Thriller,105,8.3,194,78900000,211440000,Yes,Synthetic demo data
+TAM0026,Veeran Ulagam,2012,2012-07-31,Tamil,Tamil,India,Comedy,106,,2935,6120000,5810000,Yes,Synthetic demo data
+TAM0040,Nilavu Kural,2012,2012-06-06,Tamil,Tamil,India,Adventure,129,6.2,27658,21670000,22980000,No,Synthetic demo data
+TAM0042,Oru Pudhiya Meendum,2012,2012-08-06,Tamil,Tamil,India,Animation,125,7.1,2291,,27500000,No,Synthetic demo data
+TAM0138,Neruppu Kural,2012,2012-08-10,Tamil,Tamil,India,Thriller,131,5.7,626,23460000,18500000,No,Synthetic demo data
+TAM0196,Kadal Payanam 2,2012,2012-04-30,Tamil,Tamil,India,Documentary,118,4.8,443,5670000,3310000,No,Synthetic demo data
+TAM0202,Thooral Pookkal,2012,2012-12-13,Tamil,Tamil,India,Comedy,117,6.5,974,17740000,33580000,No,Synthetic demo data
+GLB0014,Velvet Promise: Afterglow,2013,2013-10-08,Worldwide,Japanese,Japan,Action,123,6.5,569,191200000,337930000,Yes,Synthetic demo data
+GLB0026,Final Garden,2013,2013-03-16,Worldwide,English,United Kingdom,Documentary,88,9.5,3591,198800000,,Yes,Synthetic demo data
+GLB0034,Velvet Garden,2013,2013-02-06,Worldwide,Japanese,Japan,Fantasy,122,7.7,29985,117500000,214760000,No,Synthetic demo data
+GLB0037,Silver Wildflowers,2013,2013-04-25,Worldwide,English,United Kingdom,Crime,88,6.6,7124,159100000,58800000,Yes,Synthetic demo data
+GLB0080,Burning Labyrinth,2013,2013-02-09,Worldwide,French,France,Romance,151,6.8,2268,130100000,,Yes,Synthetic demo data
+GLB0091,Parallel Memory,2013,2013-01-18,Worldwide,French,France,Drama,110,8.7,7441,157900000,573990000,Yes,Synthetic demo data
+GLB0094,Empty Silence,2013,2013-10-16,Worldwide,English,United States,Thriller,130,4.9,8853,193900000,133640000,No,Synthetic demo data
+GLB0108,Electric Wildflowers,2013,2013-02-16,Worldwide,Hindi,India,Fantasy,141,6.4,6621,41500000,140540000,No,Synthetic demo data
+GLB0142,Lone Theory,2013,2013-11-18,Worldwide,Malayalam,India,Mystery,103,5.6,1388,,4000000,Yes,Synthetic demo data
+GLB0148,Parallel Mirage,2013,2013-09-10,Worldwide,English,United Kingdom,Thriller,132,6.8,3069,175800000,944900000,Yes,Synthetic demo data
+GLB0161,Rising Moon,2013,2013-06-12,Worldwide,French,France,Comedy,138,6.7,767,62400000,44830000,Yes,Synthetic demo data
+GLB0175,Neon River,2013,2013-06-04,Worldwide,English,United Kingdom,Romance,164,7.2,2977,156700000,42130000,Yes,Synthetic demo data
+GLB0216,Parallel Theory,2013,2013-06-21,Worldwide,German,Germany,Drama,128,6.8,214,205800000,533530000,Yes,Synthetic demo data
+GLB0273,Fading Lantern,2013,2013-06-28,Worldwide,English,Australia,Family,101,,21116,151100000,,No,Synthetic demo data
+GLB0278,Fading Moon,2013,2013-02-06,Worldwide,Telugu,India,Drama,119,6.2,1019,23100000,42500000,Yes,Synthetic demo data
+GLB0304,Paper Witness,2013,2013-04-28,Worldwide,Telugu,India,Comedy,97,,951,13200000,37330000,No,Synthetic demo data
+GLB0312,Empty Atlas,2013,2013-04-07,Worldwide,Korean,South Korea,Action,135,7.8,11036,,42190000,No,Synthetic demo data
+GLB0436,Before the Silence: Garden,2013,2013-02-02,Worldwide,French,France,Horror,106,4.5,3559,188900000,,No,Synthetic demo data
+GLB0440,Crimson Promise,2013,2013-01-03,Worldwide,Japanese,Japan,Sci-Fi,122,7.7,3822,1000000,1980000,No,Synthetic demo data
+TAM0047,Payanam Suvadugal 2,2013,2013-10-09,Tamil,Tamil,India,Drama,117,6.0,7305,8630000,,Yes,Synthetic demo data
+TAM0084,Vaanam Deepam,2013,2013-03-06,Tamil,Tamil,India,Fantasy,113,6.2,699,11770000,19120000,No,Synthetic demo data
+TAM0106,Neruppu Vaasal 2,2013,2013-05-12,Tamil,Tamil,India,Mystery,106,7.9,196,5660000,,No,Synthetic demo data
+TAM0110,Kanavu Vaasal Ragasiyam,2013,2013-06-03,Tamil,Tamil,India,Comedy,127,,11465,400000,,No,Synthetic demo data
+TAM0144,Kadal Ellai Part II,2013,2013-01-21,Tamil,Tamil,India,Comedy,134,6.2,4059,2710000,5190000,No,Synthetic demo data
+TAM0163,Iravu Vettai,2013,2013-11-21,Tamil,Tamil,India,Animation,113,5.8,158,13280000,18010000,Yes,Synthetic demo data
+TAM0199,Pudhir Nilal,2013,2013-05-03,Tamil,Tamil,India,Adventure,120,4.3,12129,15000000,27530000,No,Synthetic demo data
+TAM0200,Kadal Thiruppam,2013,2013-09-14,Tamil,Tamil,India,Fantasy,135,5.0,10016,22820000,57270000,Yes,Synthetic demo data
+TAM0204,Vidiyal Ragasiyam Part II,2013,2013-12-29,Tamil,Tamil,India,Adventure,127,6.0,1370,20640000,22640000,No,Synthetic demo data
+GLB0041,Beyond Paradox,2014,2014-06-02,Worldwide,Spanish,Spain,Crime,130,7.5,13463,187300000,454920000,No,Synthetic demo data
+GLB0068,Lone City 2,2014,2014-08-06,Worldwide,Korean,South Korea,Horror,134,7.1,2667,78900000,,Yes,Synthetic demo data
+GLB0077,Velvet Memory: Frontier,2014,2014-12-13,Worldwide,Spanish,Spain,Romance,115,5.1,864,34000000,21070000,Yes,Synthetic demo data
+GLB0086,Starlit Mirage,2014,2014-01-08,Worldwide,Mandarin,China,Adventure,149,4.4,14106,208300000,138130000,Yes,Synthetic demo data
+GLB0201,Scarlet Frontier,2014,2014-10-19,Worldwide,Japanese,Japan,Adventure,98,,2063,13700000,19470000,No,Synthetic demo data
+GLB0214,Golden Promise,2014,2014-12-10,Worldwide,Korean,South Korea,Crime,96,8.6,5311,69400000,209930000,No,Synthetic demo data
+GLB0233,Golden Orbit,2014,2014-07-13,Worldwide,Telugu,India,Sci-Fi,108,5.3,1827,150500000,268340000,No,Synthetic demo data
+GLB0252,Starlit Promise: Theory,2014,2014-05-31,Worldwide,Spanish,Spain,Action,146,6.9,28457,139800000,180330000,Yes,Synthetic demo data
+GLB0309,Infinite Orbit: Machine,2014,2014-02-17,Worldwide,Japanese,Japan,Action,109,5.8,2780,18100000,22500000,Yes,Synthetic demo data
+GLB0320,Electric Garden,2014,2014-04-13,Worldwide,Korean,South Korea,Thriller,130,7.0,45118,155800000,924200000,Yes,Synthetic demo data
+GLB0359,Lone Theory 2,2014,2014-03-16,Worldwide,Hindi,India,Drama,125,7.5,1277,140200000,207640000,Yes,Synthetic demo data
+GLB0388,Forgotten Code,2014,2014-12-19,Worldwide,Mandarin,China,Romance,134,5.4,9026,123300000,240120000,No,Synthetic demo data
+GLB0432,Forgotten Orbit,2014,2014-01-18,Worldwide,Japanese,Japan,Adventure,120,,2080,152300000,,No,Synthetic demo data
+GLB0456,Neon Memory,2014,2014-11-26,Worldwide,English,Australia,Fantasy,124,5.6,4308,83300000,146140000,No,Synthetic demo data
+GLB0470,Echoes of River: Paradox,2014,2014-11-27,Worldwide,English,United States,Mystery,104,7.1,3141,206200000,372020000,No,Synthetic demo data
+GLB0477,Lone Afterglow: Archive,2014,2014-10-13,Worldwide,English,Australia,Drama,129,7.7,3944,167500000,156080000,No,Synthetic demo data
+TAM0119,Iruvizhi Vaasal,2014,2014-02-27,Tamil,Tamil,India,Thriller,174,7.5,2829,10490000,13440000,No,Synthetic demo data
+TAM0133,Kaalam Meendum Chapter,2014,2014-08-16,Tamil,Tamil,India,Action,111,5.8,1049,22100000,12750000,No,Synthetic demo data
+TAM0153,Kadal Thadam,2014,2014-08-15,Tamil,Tamil,India,Romance,107,9.5,516,21150000,44840000,Yes,Synthetic demo data
+TAM0168,Mounam Nilal 3,2014,2014-02-09,Tamil,Tamil,India,Drama,123,8.2,1456,11320000,28710000,Yes,Synthetic demo data
+TAM0220,Mounam Ragasiyam,2014,2014-07-20,Tamil,Tamil,India,Sci-Fi,140,3.7,9449,,20230000,Yes,Synthetic demo data
+GLB0006,Wild Signal,2015,2015-02-09,Worldwide,Japanese,Japan,Drama,112,5.3,409,173400000,856700000,Yes,Synthetic demo data
+GLB0016,Hidden Moon,2015,2015-09-01,Worldwide,English,United States,Mystery,132,6.5,19645,63600000,151850000,No,Synthetic demo data
+GLB0056,Starlit Paradox,2015,2015-05-19,Worldwide,Telugu,India,Animation,124,5.8,4865,109000000,128110000,Yes,Synthetic demo data
+GLB0064,Shattered Silence,2015,2015-05-21,Worldwide,Korean,South Korea,Horror,85,6.8,4343,114100000,157630000,No,Synthetic demo data
+GLB0093,Frozen Witness,2015,2015-08-26,Worldwide,Malayalam,India,Comedy,104,5.7,2122,138200000,,No,Synthetic demo data
+GLB0104,Velvet Code,2015,2015-08-29,Worldwide,German,Germany,Crime,100,8.0,541,178900000,272710000,No,Synthetic demo data
+GLB0122,Velvet River,2015,2015-12-02,Worldwide,Mandarin,China,Romance,76,4.7,2486,,16260000,Yes,Synthetic demo data
+GLB0183,Burning Crown,2015,2015-12-21,Worldwide,English,Australia,Adventure,79,4.3,816,109900000,,Yes,Synthetic demo data
+GLB0266,Shattered Frequency: Odyssey,2015,2015-01-30,Worldwide,German,Germany,Romance,114,6.3,581,168000000,219270000,Yes,Synthetic demo data
+GLB0288,Hidden Lantern,2015,2015-10-25,Worldwide,English,United States,Sci-Fi,140,6.7,2669,217400000,103370000,No,Synthetic demo data
+GLB0289,Parallel Voyage,2015,2015-09-19,Worldwide,Japanese,Japan,Comedy,114,5.9,4088,79000000,152670000,No,Synthetic demo data
+GLB0342,Empty Frontier: Paradox,2015,2015-11-22,Worldwide,Spanish,Mexico,Romance,115,5.2,3326,114300000,213490000,No,Synthetic demo data
+GLB0400,Broken Theory 3,2015,2015-01-24,Worldwide,Korean,South Korea,Comedy,136,5.9,794,100700000,76260000,No,Synthetic demo data
+GLB0419,Crimson City: Wildflowers,2015,2015-02-06,Worldwide,Mandarin,China,Thriller,112,8.0,1496,37000000,,No,Synthetic demo data
+GLB0428,Broken Horizon,2015,2015-11-17,Worldwide,Korean,South Korea,Comedy,141,6.4,1580,210500000,264700000,No,Synthetic demo data
+GLB0453,Velvet Passenger,2015,2015-06-26,Worldwide,Telugu,India,Drama,120,6.5,11474,12900000,9240000,No,Synthetic demo data
+GLB0473,Distant Passenger: Promise,2015,2015-06-15,Worldwide,German,Germany,Adventure,126,5.3,2687,217700000,74200000,No,Synthetic demo data
+GLB0480,Frozen Orbit,2015,2015-12-23,Worldwide,Spanish,Spain,Thriller,75,6.0,10339,23300000,16070000,Yes,Synthetic demo data
+TAM0022,Payanam Suvadugal,2015,2015-07-11,Tamil,Tamil,India,Mystery,135,6.7,431,11880000,,No,Synthetic demo data
+TAM0059,Iravu Meendum,2015,2015-01-16,Tamil,Tamil,India,Documentary,110,5.5,749,13020000,8440000,Yes,Synthetic demo data
+TAM0068,Marupakkam Aattam,2015,2015-02-18,Tamil,Tamil,India,Sci-Fi,100,6.7,1913,11830000,12620000,No,Synthetic demo data
+TAM0089,Puyal Vaanavil,2015,2015-05-16,Tamil,Tamil,India,Thriller,126,5.6,1411,12100000,13880000,No,Synthetic demo data
+TAM0092,Pudhir Kural,2015,2015-05-28,Tamil,Tamil,India,Drama,95,5.8,2128,13570000,35800000,No,Synthetic demo data
+TAM0120,Kadal Vaasal,2015,2015-01-04,Tamil,Tamil,India,Horror,163,5.8,1616,8220000,8820000,No,Synthetic demo data
+TAM0123,Mounam Nilal,2015,2015-03-02,Tamil,Tamil,India,Romance,117,6.3,192,12100000,63180000,Yes,Synthetic demo data
+TAM0148,Mazhai Sakkaram,2015,2015-09-22,Tamil,Tamil,India,Comedy,152,7.4,555,20330000,,No,Synthetic demo data
+TAM0178,Thendral Neram,2015,2015-08-15,Tamil,Tamil,India,Comedy,141,6.9,1684,21890000,35100000,No,Synthetic demo data
+GLB0001,Midnight Orbit,2016,2016-04-06,Worldwide,Japanese,Japan,Adventure,107,5.1,2922,50500000,85630000,Yes,Synthetic demo data
+GLB0059,Crimson Code,2016,2016-02-04,Worldwide,Italian,Italy,Drama,75,6.1,793,149500000,256390000,No,Synthetic demo data
+GLB0065,Echoes of Promise,2016,2016-02-13,Worldwide,Telugu,India,Thriller,121,5.8,713,31900000,,Yes,Synthetic demo data
+GLB0133,Parallel Silence,2016,2016-02-16,Worldwide,Malayalam,India,Comedy,110,6.1,2582,145000000,234070000,Yes,Synthetic demo data
+GLB0146,The Last Archive,2016,2016-11-27,Worldwide,English,Australia,Action,131,6.7,17133,160900000,81050000,Yes,Synthetic demo data
+GLB0212,Dark Frontier,2016,2016-07-02,Worldwide,English,United Kingdom,Crime,114,7.9,1576,101100000,,No,Synthetic demo data
+GLB0229,Empty Archive: Kingdom,2016,2016-06-21,Worldwide,Korean,South Korea,Action,114,6.3,12358,210300000,229090000,Yes,Synthetic demo data
+GLB0239,Rising Reckoning,2016,2016-11-19,Worldwide,Hindi,India,Adventure,84,5.4,1706,,82030000,No,Synthetic demo data
+GLB0264,Velvet Machine: Sparrow,2016,2016-03-27,Worldwide,Mandarin,China,Action,110,6.4,3826,700000,780000,Yes,Synthetic demo data
+GLB0283,Silver Moon: Summit,2016,2016-06-03,Worldwide,Malayalam,India,Thriller,120,6.2,585,51200000,155410000,No,Synthetic demo data
+GLB0306,Empty Afterglow,2016,2016-11-12,Worldwide,English,United Kingdom,Sci-Fi,91,8.8,161,176900000,1428380000,No,Synthetic demo data
+GLB0331,Fading Mirage,2016,2016-08-26,Worldwide,English,United States,Romance,113,6.9,2759,,343850000,No,Synthetic demo data
+GLB0332,Rising Lantern,2016,2016-08-08,Worldwide,English,United Kingdom,Drama,98,6.8,7452,147300000,357700000,No,Synthetic demo data
+GLB0360,Forgotten Shadow,2016,2016-06-05,Worldwide,Korean,South Korea,Drama,105,8.1,3474,174200000,731360000,Yes,Synthetic demo data
+GLB0369,Final Code,2016,2016-01-09,Worldwide,Portuguese,Brazil,Crime,115,6.9,17037,27400000,,No,Synthetic demo data
+GLB0373,Shattered Paradox: Shadow,2016,2016-02-08,Worldwide,Malayalam,India,Action,133,5.4,4422,,204490000,No,Synthetic demo data
+GLB0375,Silver Kingdom: Frontier,2016,2016-02-19,Worldwide,Japanese,Japan,Drama,101,6.3,25301,103900000,174880000,No,Synthetic demo data
+GLB0402,The Last Empire,2016,2016-11-24,Worldwide,Spanish,Mexico,Adventure,105,7.7,4716,212800000,235680000,No,Synthetic demo data
+GLB0410,Frozen Lantern: Wildflowers,2016,2016-07-22,Worldwide,English,United States,Crime,89,8.5,3694,38300000,,Yes,Synthetic demo data
+GLB0460,Distant Labyrinth,2016,2016-06-02,Worldwide,Japanese,Japan,Crime,122,6.1,53337,32800000,62150000,No,Synthetic demo data
+GLB0471,Lone Garden,2016,2016-09-11,Worldwide,Hindi,India,Sci-Fi,111,7.5,4406,44700000,23140000,No,Synthetic demo data
+GLB0476,Secret Sparrow 3,2016,2016-12-21,Worldwide,English,Australia,Mystery,141,7.9,328,163300000,252390000,No,Synthetic demo data
+TAM0056,Iravu Pookkal,2016,2016-03-22,Tamil,Tamil,India,Family,125,,3313,3540000,8870000,No,Synthetic demo data
+TAM0078,Aazhi Vettai,2016,2016-11-21,Tamil,Tamil,India,Drama,134,8.3,2358,21270000,46430000,Yes,Synthetic demo data
+TAM0087,Vettai Nilal 2040,2016,2016-05-08,Tamil,Tamil,India,Comedy,114,6.0,3785,10360000,9410000,No,Synthetic demo data
+TAM0088,Minnal Kural,2016,2016-12-14,Tamil,Tamil,India,Family,147,,2481,20820000,17310000,Yes,Synthetic demo data
+TAM0090,Aazhi Vettai 2,2016,2016-02-10,Tamil,Tamil,India,Drama,165,7.8,10024,15750000,24970000,No,Synthetic demo data
+TAM0107,Neruppu Vidhi,2016,2016-04-25,Tamil,Tamil,India,Comedy,135,5.6,3193,8930000,10820000,No,Synthetic demo data
+TAM0109,Payanam Vaanavil,2016,2016-06-04,Tamil,Tamil,India,Adventure,124,9.1,948,22260000,,No,Synthetic demo data
+TAM0125,Thendral Paadhai,2016,2016-12-12,Tamil,Tamil,India,Comedy,123,6.9,1215,13750000,37910000,No,Synthetic demo data
+TAM0127,Minnal Paadhai,2016,2016-06-19,Tamil,Tamil,India,Crime,125,6.2,5456,11010000,3370000,No,Synthetic demo data
+TAM0131,Oru Pudhiya Thee,2016,2016-04-23,Tamil,Tamil,India,Fantasy,114,6.3,1589,13970000,23940000,No,Synthetic demo data
+TAM0149,Kanavu Saaral,2016,2016-10-24,Tamil,Tamil,India,Drama,116,5.8,13297,7290000,9310000,Yes,Synthetic demo data
+TAM0164,Thooral Kural 2040,2016,2016-09-17,Tamil,Tamil,India,Mystery,111,7.2,782,13610000,14580000,No,Synthetic demo data
+TAM0166,Neruppu Osai Ragasiyam,2016,2016-08-08,Tamil,Tamil,India,Drama,101,5.7,1448,12610000,21610000,No,Synthetic demo data
+TAM0177,Iruvizhi Meendum,2016,2016-02-08,Tamil,Tamil,India,Drama,141,8.3,3176,13920000,67320000,No,Synthetic demo data
+TAM0189,Nenjil Vidhi Ragasiyam,2016,2016-07-22,Tamil,Tamil,India,Horror,114,7.1,956,22740000,13760000,No,Synthetic demo data
+GLB0067,Hidden Code,2017,2017-04-24,Worldwide,Portuguese,Brazil,Action,95,6.2,2414,206900000,,No,Synthetic demo data
+GLB0087,Silver Summit,2017,2017-02-18,Worldwide,French,France,Action,121,6.7,4361,13100000,5970000,Yes,Synthetic demo data
+GLB0100,Silver Passenger,2017,2017-11-21,Worldwide,English,United Kingdom,Horror,86,7.2,32034,204300000,576930000,Yes,Synthetic demo data
+GLB0128,Golden Silence 2,2017,2017-09-12,Worldwide,Malayalam,India,Romance,117,5.7,586,186000000,275640000,No,Synthetic demo data
+GLB0157,Hidden Horizon,2017,2017-03-01,Worldwide,German,Germany,Adventure,92,7.6,763,201100000,,No,Synthetic demo data
+GLB0181,Silver Theory,2017,2017-08-09,Worldwide,French,France,Romance,99,8.0,2501,158000000,38450000,No,Synthetic demo data
+GLB0190,Midnight City,2017,2017-08-19,Worldwide,English,Australia,Adventure,89,6.9,21983,142300000,313680000,Yes,Synthetic demo data
+GLB0197,Rising Storm,2017,2017-03-26,Worldwide,Hindi,India,Action,126,4.8,1044,63500000,107650000,No,Synthetic demo data
+GLB0294,Before the Machine,2017,2017-03-22,Worldwide,German,Germany,Crime,108,5.6,2761,,407170000,No,Synthetic demo data
+GLB0308,Rising Mirage: River,2017,2017-07-29,Worldwide,Hindi,India,Thriller,100,5.0,5587,143100000,171500000,No,Synthetic demo data
+GLB0322,Silent Garden,2017,2017-07-06,Worldwide,English,Australia,Adventure,105,6.1,605,188500000,87640000,No,Synthetic demo data
+GLB0334,Scarlet Crown,2017,2017-06-07,Worldwide,English,United Kingdom,Romance,107,5.9,1728,204700000,298620000,Yes,Synthetic demo data
+GLB0374,Parallel Promise 2,2017,2017-10-27,Worldwide,Spanish,Mexico,Drama,109,7.5,3312,198300000,254200000,Yes,Synthetic demo data
+GLB0377,Neon Passenger,2017,2017-08-11,Worldwide,Korean,South Korea,Action,118,7.4,1650,206500000,406630000,Yes,Synthetic demo data
+GLB0407,Golden Station,2017,2017-01-15,Worldwide,English,United States,Fantasy,117,6.1,18923,100300000,,No,Synthetic demo data
+GLB0415,Electric Memory 2,2017,2017-10-10,Worldwide,Korean,South Korea,Romance,133,6.8,5175,31500000,,No,Synthetic demo data
+GLB0463,Crimson Machine 2,2017,2017-03-09,Worldwide,Malayalam,India,Mystery,125,6.2,18123,29300000,,No,Synthetic demo data
+GLB0468,Silent Storm,2017,2017-12-07,Worldwide,English,United Kingdom,Adventure,132,5.3,2486,70500000,136090000,No,Synthetic demo data
+TAM0044,Siragugal Ellai,2017,2017-10-01,Tamil,Tamil,India,Romance,140,6.3,835,840000,2070000,Yes,Synthetic demo data
+TAM0097,Adanga Vizhigal,2017,2017-11-24,Tamil,Tamil,India,Drama,151,6.1,504,17120000,,Yes,Synthetic demo data
+TAM0160,Aazhi Mugam,2017,2017-11-07,Tamil,Tamil,India,Adventure,157,5.8,17092,15280000,13110000,Yes,Synthetic demo data
+TAM0201,Vidiyal Pookkal,2017,2017-10-30,Tamil,Tamil,India,Drama,125,7.1,14099,4830000,3720000,Yes,Synthetic demo data
+TAM0212,Thendral Vidhi,2017,2017-04-01,Tamil,Tamil,India,Animation,140,6.4,10496,14310000,30580000,No,Synthetic demo data
+GLB0045,Frozen Crown,2018,2018-06-29,Worldwide,German,Germany,Comedy,142,4.9,8060,18400000,31000000,No,Synthetic demo data
+GLB0079,Beyond Paradox 2,2018,2018-04-13,Worldwide,Hindi,India,Drama,121,,5579,,10810000,No,Synthetic demo data
+GLB0135,The Last River,2018,2018-09-09,Worldwide,English,Australia,Comedy,128,7.4,1506,187900000,248050000,No,Synthetic demo data
+GLB0137,Neon Paradox,2018,2018-09-23,Worldwide,Telugu,India,Thriller,98,6.2,1542,208900000,2775900000,No,Synthetic demo data
+GLB0171,Lone City 3,2018,2018-07-03,Worldwide,Hindi,India,Mystery,149,6.3,187,68100000,193000000,No,Synthetic demo data
+GLB0215,Parallel Paradox 2,2018,2018-09-18,Worldwide,Italian,Italy,Action,138,6.4,2604,53200000,,No,Synthetic demo data
+GLB0228,Velvet Paradox,2018,2018-06-22,Worldwide,Spanish,Mexico,Romance,120,7.7,207,73200000,166290000,No,Synthetic demo data
+GLB0231,Starlit Horizon 2,2018,2018-10-19,Worldwide,Japanese,Japan,Comedy,151,,21355,,,No,Synthetic demo data
+GLB0263,Shattered Crown,2018,2018-05-15,Worldwide,Malayalam,India,Drama,108,7.1,1131,83100000,98210000,No,Synthetic demo data
+GLB0324,Wild Labyrinth 2,2018,2018-06-08,Worldwide,French,France,Crime,115,9.0,287,209200000,243740000,No,Synthetic demo data
+GLB0358,Beyond Station,2018,2018-05-10,Worldwide,Japanese,Japan,Romance,145,4.6,264,107600000,79560000,Yes,Synthetic demo data
+GLB0383,Paper Orbit,2018,2018-09-25,Worldwide,German,Germany,Comedy,118,7.4,23852,131100000,,No,Synthetic demo data
+GLB0394,Dark Signal,2018,2018-06-09,Worldwide,Spanish,Mexico,Romance,92,,1229,194200000,209940000,No,Synthetic demo data
+GLB0404,Hidden Archive: Crown,2018,2018-01-20,Worldwide,English,United States,Action,99,7.5,4265,107600000,92510000,Yes,Synthetic demo data
+GLB0409,Fading Theory,2018,2018-03-29,Worldwide,Italian,Italy,Drama,75,8.0,3235,98100000,109880000,No,Synthetic demo data
+GLB0451,Neon Voyage,2018,2018-07-06,Worldwide,Spanish,Spain,Documentary,125,6.9,4588,137000000,178600000,No,Synthetic demo data
+TAM0016,Oli Thuli,2018,2018-01-04,Tamil,Tamil,India,Romance,119,7.9,5790,14500000,21840000,No,Synthetic demo data
+TAM0025,Aazhi Ulagam Part II,2018,2018-08-05,Tamil,Tamil,India,Animation,148,7.4,2584,7070000,4040000,No,Synthetic demo data
+TAM0054,Nenjil Deepam Ragasiyam,2018,2018-01-06,Tamil,Tamil,India,Thriller,143,7.7,1574,22630000,27260000,No,Synthetic demo data
+TAM0063,Pudhir Osai,2018,2018-12-20,Tamil,Tamil,India,Action,117,6.1,712,19890000,,Yes,Synthetic demo data
+TAM0085,Marupakkam Ulagam,2018,2018-10-11,Tamil,Tamil,India,Drama,122,7.6,6417,4360000,5000000,No,Synthetic demo data
+TAM0096,Kadal Ellai,2018,2018-01-21,Tamil,Tamil,India,Comedy,124,7.2,3895,15540000,,No,Synthetic demo data
+TAM0098,Puyal Meendum,2018,2018-11-09,Tamil,Tamil,India,Fantasy,116,6.5,621,15230000,28850000,No,Synthetic demo data
+TAM0117,Mounam Vaanavil,2018,2018-12-02,Tamil,Tamil,India,Sci-Fi,122,7.1,3173,1460000,,No,Synthetic demo data
+TAM0150,Pudhir Puyal,2018,2018-05-10,Tamil,Tamil,India,Thriller,127,6.5,260,12200000,14350000,No,Synthetic demo data
+TAM0162,Sutrula Payanam 2,2018,2018-08-20,Tamil,Tamil,India,Comedy,87,5.1,12346,18660000,21860000,No,Synthetic demo data
+GLB0061,Forgotten Odyssey: Moon,2019,2019-04-05,Worldwide,Portuguese,Brazil,Horror,110,6.8,1955,132100000,124450000,Yes,Synthetic demo data
+GLB0069,Distant Moon,2019,2019-07-30,Worldwide,Italian,Italy,Action,81,7.1,313,7800000,,No,Synthetic demo data
+GLB0085,Fading Odyssey,2019,2019-01-11,Worldwide,Mandarin,China,Thriller,127,5.7,3715,102000000,82440000,No,Synthetic demo data
+GLB0110,The Last Atlas,2019,2019-12-16,Worldwide,Spanish,Mexico,Drama,109,6.2,5976,119900000,134010000,Yes,Synthetic demo data
+GLB0131,Infinite Horizon,2019,2019-12-20,Worldwide,Spanish,Mexico,Drama,85,6.4,2709,72200000,112550000,Yes,Synthetic demo data
+GLB0180,Dark Moon,2019,2019-04-10,Worldwide,English,United Kingdom,Mystery,102,3.5,19473,,9290000,Yes,Synthetic demo data
+GLB0188,Parallel Mirage 2,2019,2019-04-22,Worldwide,French,France,Action,118,7.8,23801,199500000,294760000,Yes,Synthetic demo data
+GLB0192,Broken Lantern: Moon,2019,2019-06-28,Worldwide,French,France,Sci-Fi,112,8.6,1318,2000000,10600000,No,Synthetic demo data
+GLB0222,Secret Crown,2019,2019-07-25,Worldwide,French,France,Romance,91,6.8,4089,113300000,265510000,Yes,Synthetic demo data
+GLB0244,Secret Sparrow 2,2019,2019-10-02,Worldwide,Mandarin,China,Fantasy,130,5.9,24684,166600000,,Yes,Synthetic demo data
+GLB0249,Neon Mirage,2019,2019-10-18,Worldwide,Mandarin,China,Sci-Fi,133,6.8,1163,32100000,54290000,No,Synthetic demo data
+GLB0268,Wild Archive,2019,2019-02-18,Worldwide,Spanish,Spain,Thriller,88,5.3,2454,44500000,32350000,Yes,Synthetic demo data
+GLB0295,Empty Moon: Theory,2019,2019-12-23,Worldwide,Portuguese,Brazil,Action,121,6.0,410,120300000,153320000,No,Synthetic demo data
+GLB0459,Paper Odyssey: Silence,2019,2019-06-23,Worldwide,Hindi,India,Drama,131,6.5,4006,52000000,19900000,No,Synthetic demo data
+GLB0466,Before the Afterglow 2,2019,2019-05-07,Worldwide,Spanish,Spain,Crime,81,6.9,445,98100000,118510000,Yes,Synthetic demo data
+TAM0003,Mazhai Suvadugal,2019,2019-01-21,Tamil,Tamil,India,Horror,138,6.3,14955,7720000,3830000,No,Synthetic demo data
+TAM0009,Sutrula Ragasiyam,2019,2019-05-25,Tamil,Tamil,India,Mystery,127,6.1,10807,,,No,Synthetic demo data
+TAM0038,Veeran Puyal,2019,2019-12-10,Tamil,Tamil,India,Romance,137,6.5,2832,9030000,25320000,No,Synthetic demo data
+TAM0052,Payanam Vizhigal,2019,2019-10-16,Tamil,Tamil,India,Horror,116,7.2,282,20480000,,Yes,Synthetic demo data
+TAM0062,Payanam Vettai,2019,2019-07-26,Tamil,Tamil,India,Drama,139,6.5,3995,2670000,3670000,No,Synthetic demo data
+TAM0083,Iruvizhi Pookkal Part II,2019,2019-07-17,Tamil,Tamil,India,Action,99,6.0,4717,1860000,1950000,No,Synthetic demo data
+TAM0099,Nenjil Vizhigal,2019,2019-07-08,Tamil,Tamil,India,Sci-Fi,107,6.3,2338,18450000,,No,Synthetic demo data
+TAM0121,Iruvizhi Vettai,2019,2019-08-18,Tamil,Tamil,India,Comedy,107,7.6,3053,19260000,31340000,Yes,Synthetic demo data
+TAM0142,Kanavu Thuli Chapter,2019,2019-03-20,Tamil,Tamil,India,Adventure,103,6.2,671,20160000,45770000,No,Synthetic demo data
+TAM0185,Pudhir Osai 2,2019,2019-05-18,Tamil,Tamil,India,Romance,147,7.7,8431,1420000,2170000,No,Synthetic demo data
+TAM0191,Kadal Vaasal 2,2019,2019-10-05,Tamil,Tamil,India,Sci-Fi,164,5.5,766,6060000,6950000,Yes,Synthetic demo data
+TAM0211,Mazhai Vaasal Returns,2019,2019-11-06,Tamil,Tamil,India,Action,125,5.8,9742,8190000,21330000,No,Synthetic demo data
+TAM0215,Payanam Payanam,2019,2019-04-28,Tamil,Tamil,India,Thriller,133,6.1,822,9040000,13680000,Yes,Synthetic demo data
+GLB0046,Starlit Witness,2020,2020-07-05,Worldwide,Telugu,India,Drama,93,5.9,2705,95000000,139680000,No,Synthetic demo data
+GLB0053,Wild Empire: Atlas,2020,2020-05-21,Worldwide,Portuguese,Brazil,Action,135,6.5,5861,11900000,22010000,Yes,Synthetic demo data
+GLB0066,Silent Paradox,2020,2020-10-12,Worldwide,Spanish,Spain,Fantasy,128,5.1,3284,53100000,43050000,No,Synthetic demo data
+GLB0099,Shattered Station,2020,2020-03-01,Worldwide,Spanish,Mexico,Horror,115,7.8,172055,98000000,186880000,No,Synthetic demo data
+GLB0118,Lone Theory: Lantern,2020,2020-08-24,Worldwide,Japanese,Japan,Romance,105,6.9,6828,119200000,107290000,No,Synthetic demo data
+GLB0173,Velvet Horizon: Passenger,2020,2020-12-25,Worldwide,English,Australia,Drama,110,4.5,163,75800000,43970000,Yes,Synthetic demo data
+GLB0207,Golden Machine,2020,2020-01-19,Worldwide,Japanese,Japan,Action,113,6.8,8797,35800000,99390000,Yes,Synthetic demo data
+GLB0210,Burning Odyssey,2020,2020-01-27,Worldwide,Italian,Italy,Animation,117,6.7,2220,,90370000,No,Synthetic demo data
+GLB0243,Burning Memory,2020,2020-12-09,Worldwide,Japanese,Japan,Drama,75,7.5,4146,196600000,162690000,No,Synthetic demo data
+GLB0247,Distant Code,2020,2020-10-15,Worldwide,Korean,South Korea,Animation,128,8.4,1834,211800000,553600000,No,Synthetic demo data
+GLB0291,The Last Frontier,2020,2020-05-28,Worldwide,English,Australia,Thriller,115,6.1,13510,159100000,328330000,No,Synthetic demo data
+GLB0347,Starlit Shadow,2020,2020-05-06,Worldwide,English,United Kingdom,Adventure,134,5.7,2545,164600000,123350000,No,Synthetic demo data
+GLB0378,Starlit Theory,2020,2020-04-06,Worldwide,English,United Kingdom,Drama,129,7.0,5116,10100000,8870000,No,Synthetic demo data
+GLB0397,Scarlet Storm,2020,2020-03-25,Worldwide,Portuguese,Brazil,Action,116,7.2,9123,178500000,135020000,No,Synthetic demo data
+GLB0421,Parallel Passenger,2020,2020-09-07,Worldwide,Hindi,India,Action,130,6.0,3196,100800000,,Yes,Synthetic demo data
+TAM0030,Oru Pudhiya Paadhai,2020,2020-03-29,Tamil,Tamil,India,Romance,134,7.2,3672,,6570000,No,Synthetic demo data
+TAM0035,Kanavu Ulagam,2020,2020-04-23,Tamil,Tamil,India,Fantasy,118,8.1,1221,5060000,,No,Synthetic demo data
+TAM0057,Anbu Meendum Part II,2020,2020-06-08,Tamil,Tamil,India,Horror,114,7.1,818,10100000,11190000,Yes,Synthetic demo data
+TAM0065,Kadal Deepam Part II,2020,2020-08-21,Tamil,Tamil,India,Action,140,,1547,,4540000,No,Synthetic demo data
+TAM0145,Nenjil Mugam,2020,2020-11-03,Tamil,Tamil,India,Comedy,99,7.2,294,3540000,2660000,No,Synthetic demo data
+TAM0182,Anbu Mugam,2020,2020-09-04,Tamil,Tamil,India,Drama,129,8.5,524,18130000,,No,Synthetic demo data
+TAM0187,Kanavu Ulagam 2040,2020,2020-05-14,Tamil,Tamil,India,Action,141,4.3,6365,6950000,4030000,No,Synthetic demo data
+TAM0194,Aazhi Aattam,2020,2020-09-21,Tamil,Tamil,India,Mystery,149,6.2,1654,13540000,21920000,No,Synthetic demo data
+TAM0210,Thendral Vettai,2020,2020-05-02,Tamil,Tamil,India,Drama,129,6.3,355,14910000,25440000,No,Synthetic demo data
+GLB0050,Silver Afterglow: City,2021,2021-05-10,Worldwide,Portuguese,Brazil,Romance,131,5.7,23015,76000000,75290000,Yes,Synthetic demo data
+GLB0076,Final Crown,2021,2021-06-11,Worldwide,English,United Kingdom,Sci-Fi,109,4.6,6485,,182170000,No,Synthetic demo data
+GLB0083,Velvet Afterglow,2021,2021-01-03,Worldwide,Mandarin,China,Crime,117,6.4,1569,74500000,93520000,Yes,Synthetic demo data
+GLB0102,Lone Voyage,2021,2021-02-23,Worldwide,Japanese,Japan,Romance,118,7.5,1247,4100000,3870000,Yes,Synthetic demo data
+GLB0138,Fading Paradox,2021,2021-01-24,Worldwide,Japanese,Japan,Animation,147,6.0,805,130200000,94760000,No,Synthetic demo data
+GLB0144,Fading Afterglow,2021,2021-11-07,Worldwide,Korean,South Korea,Drama,98,8.6,7868,,76810000,No,Synthetic demo data
+GLB0164,Final Machine,2021,2021-08-13,Worldwide,French,France,Drama,89,6.8,5954,46400000,,Yes,Synthetic demo data
+GLB0217,Rising Silence,2021,2021-06-11,Worldwide,Spanish,Spain,Thriller,85,6.5,889,202000000,,No,Synthetic demo data
+GLB0246,Velvet City: Crown,2021,2021-06-14,Worldwide,English,United Kingdom,Comedy,116,5.4,2846,177600000,780210000,No,Synthetic demo data
+GLB0265,Empty Sparrow,2021,2021-05-13,Worldwide,Telugu,India,Horror,143,6.8,860,22200000,34390000,No,Synthetic demo data
+GLB0284,Before the Atlas 2,2021,2021-06-08,Worldwide,Hindi,India,Action,116,3.8,294,186900000,74380000,Yes,Synthetic demo data
+GLB0298,Shattered Horizon,2021,2021-05-03,Worldwide,Telugu,India,Drama,144,3.9,2847,29200000,,No,Synthetic demo data
+GLB0305,Lone Crown,2021,2021-10-29,Worldwide,German,Germany,Drama,143,6.0,531,,587020000,No,Synthetic demo data
+GLB0314,Wild Horizon,2021,2021-07-03,Worldwide,Mandarin,China,Action,141,7.2,2170,35000000,,No,Synthetic demo data
+GLB0355,Hidden Lantern 2,2021,2021-12-08,Worldwide,Mandarin,China,Adventure,96,5.6,909,214900000,338440000,No,Synthetic demo data
+GLB0364,Neon Empire,2021,2021-11-16,Worldwide,English,United Kingdom,Sci-Fi,104,6.9,19483,73500000,144500000,Yes,Synthetic demo data
+GLB0392,Scarlet Lantern: Storm,2021,2021-07-25,Worldwide,Italian,Italy,Drama,113,,3315,121500000,,Yes,Synthetic demo data
+GLB0398,Forgotten Paradox 2,2021,2021-09-18,Worldwide,Mandarin,China,Mystery,142,8.6,924,116600000,103400000,No,Synthetic demo data
+GLB0412,Velvet Garden 2,2021,2021-10-01,Worldwide,Mandarin,China,Drama,112,6.1,1247,67500000,237520000,Yes,Synthetic demo data
+GLB0430,Frozen Reckoning: Silence,2021,2021-10-21,Worldwide,Spanish,Spain,Thriller,111,6.7,21335,6100000,29090000,Yes,Synthetic demo data
+TAM0036,Kanavu Paadhai Part II,2021,2021-07-03,Tamil,Tamil,India,Horror,121,6.9,20767,19660000,21540000,No,Synthetic demo data
+TAM0100,Vettai Payanam,2021,2021-08-05,Tamil,Tamil,India,Romance,136,7.2,1599,15220000,9270000,No,Synthetic demo data
+TAM0126,Iravu Vaasal,2021,2021-03-15,Tamil,Tamil,India,Drama,138,7.3,1937,,58410000,No,Synthetic demo data
+TAM0135,Nenjil Saatchi,2021,2021-03-30,Tamil,Tamil,India,Comedy,153,5.1,6434,5190000,3150000,Yes,Synthetic demo data
+TAM0140,Mounam Thiruppam,2021,2021-12-08,Tamil,Tamil,India,Drama,118,7.0,425,9110000,17560000,Yes,Synthetic demo data
+GLB0035,Hidden Passenger,2022,2022-05-20,Worldwide,Spanish,Mexico,Romance,110,4.7,3097,66400000,,No,Synthetic demo data
+GLB0039,Echoes of Passenger,2022,2022-01-06,Worldwide,Korean,South Korea,Drama,149,5.6,1797,4800000,8370000,No,Synthetic demo data
+GLB0049,Echoes of Memory,2022,2022-07-02,Worldwide,Hindi,India,Drama,106,6.8,9810,157900000,146580000,No,Synthetic demo data
+GLB0070,Midnight Moon,2022,2022-10-26,Worldwide,Italian,Italy,Thriller,89,7.0,3112,97700000,103210000,No,Synthetic demo data
+GLB0071,Distant Kingdom,2022,2022-06-01,Worldwide,English,Australia,Action,120,7.3,18945,140500000,105880000,No,Synthetic demo data
+GLB0072,Secret Sparrow,2022,2022-01-10,Worldwide,English,United States,Crime,102,8.1,5999,178700000,231320000,Yes,Synthetic demo data
+GLB0106,Burning Machine,2022,2022-07-16,Worldwide,Malayalam,India,Drama,152,5.6,37961,209500000,513760000,No,Synthetic demo data
+GLB0165,Neon Theory: Reckoning,2022,2022-02-07,Worldwide,Japanese,Japan,Crime,110,7.2,6513,43900000,61890000,No,Synthetic demo data
+GLB0179,Burning Lantern,2022,2022-07-04,Worldwide,Korean,South Korea,Romance,91,7.5,1067,95400000,63490000,No,Synthetic demo data
+GLB0184,Electric Lantern,2022,2022-06-22,Worldwide,Portuguese,Brazil,Crime,102,5.2,1502,,,No,Synthetic demo data
+GLB0203,Final Empire,2022,2022-11-13,Worldwide,English,United States,Sci-Fi,126,7.1,2554,23700000,15010000,No,Synthetic demo data
+GLB0224,Wild Labyrinth: Paradox,2022,2022-12-24,Worldwide,Portuguese,Brazil,Drama,122,5.2,7041,77800000,217310000,No,Synthetic demo data
+GLB0293,Silver Paradox,2022,2022-09-17,Worldwide,Spanish,Mexico,Romance,92,8.0,5345,31800000,64780000,Yes,Synthetic demo data
+GLB0316,Frozen Storm: Garden,2022,2022-08-11,Worldwide,Japanese,Japan,Horror,111,7.5,8119,86700000,36730000,No,Synthetic demo data
+GLB0323,Burning Station,2022,2022-08-16,Worldwide,Italian,Italy,Comedy,96,7.2,2583,80800000,297890000,Yes,Synthetic demo data
+GLB0340,Rising Mirage,2022,2022-04-15,Worldwide,Spanish,Spain,Comedy,128,7.1,1044,53500000,29730000,No,Synthetic demo data
+GLB0367,Forgotten Paradox,2022,2022-04-01,Worldwide,Telugu,India,Documentary,115,6.7,1239,183800000,377170000,No,Synthetic demo data
+GLB0384,Beyond Signal,2022,2022-09-06,Worldwide,Malayalam,India,Animation,133,5.6,39842,2000000,5720000,No,Synthetic demo data
+GLB0411,Silent Kingdom,2022,2022-01-13,Worldwide,English,United States,Drama,136,6.6,502,,390200000,No,Synthetic demo data
+GLB0422,Secret Passenger,2022,2022-07-22,Worldwide,Mandarin,China,Thriller,115,5.9,527,213500000,116850000,No,Synthetic demo data
+TAM0071,Vaanam Vaasal,2022,2022-12-08,Tamil,Tamil,India,Crime,115,7.4,500,16770000,,No,Synthetic demo data
+TAM0094,Mounam Payanam,2022,2022-05-28,Tamil,Tamil,India,Crime,125,7.3,1598,1810000,3190000,No,Synthetic demo data
+TAM0134,Puyal Saaral,2022,2022-06-07,Tamil,Tamil,India,Animation,126,7.1,2152,23420000,43390000,Yes,Synthetic demo data
+TAM0167,Payanam Thiruppam,2022,2022-07-19,Tamil,Tamil,India,Horror,132,7.9,2741,11390000,10380000,Yes,Synthetic demo data
+GLB0010,Starlit Atlas: Kingdom,2023,2023-08-12,Worldwide,Telugu,India,Fantasy,108,7.7,4729,117800000,239160000,Yes,Synthetic demo data
+GLB0136,Dark Lantern,2023,2023-08-13,Worldwide,English,Australia,Crime,148,7.1,2188,182800000,257410000,Yes,Synthetic demo data
+GLB0155,Distant Storm,2023,2023-12-10,Worldwide,Japanese,Japan,Action,140,7.5,3147,164100000,429910000,Yes,Synthetic demo data
+GLB0162,Infinite Station,2023,2023-04-07,Worldwide,Italian,Italy,Mystery,118,7.0,3163,126200000,118780000,No,Synthetic demo data
+GLB0174,Distant Promise,2023,2023-11-27,Worldwide,Malayalam,India,Comedy,119,4.4,3765,139100000,42130000,Yes,Synthetic demo data
+GLB0187,Before the Lantern,2023,2023-06-23,Worldwide,Italian,Italy,Adventure,101,4.7,6379,108600000,67040000,Yes,Synthetic demo data
+GLB0191,Dark Labyrinth,2023,2023-07-26,Worldwide,Italian,Italy,Romance,97,7.9,11218,124700000,1054400000,No,Synthetic demo data
+GLB0225,Crimson Sparrow: Witness,2023,2023-06-20,Worldwide,Spanish,Mexico,Horror,120,6.0,769,166800000,45280000,No,Synthetic demo data
+GLB0251,Distant Theory,2023,2023-04-13,Worldwide,Telugu,India,Romance,90,6.6,6423,165600000,242870000,Yes,Synthetic demo data
+GLB0255,Electric Mirage,2023,2023-06-17,Worldwide,English,United Kingdom,Comedy,104,6.1,1463,80400000,58420000,No,Synthetic demo data
+GLB0321,Silent City 2,2023,2023-06-06,Worldwide,English,United States,Adventure,102,5.7,2716,183500000,312820000,No,Synthetic demo data
+GLB0356,Starlit Crown,2023,2023-05-26,Worldwide,Spanish,Mexico,Romance,100,6.7,1350,81200000,100700000,No,Synthetic demo data
+GLB0357,Golden Horizon: Sparrow,2023,2023-10-08,Worldwide,Portuguese,Brazil,Comedy,125,7.3,8380,46900000,62640000,Yes,Synthetic demo data
+GLB0362,Electric Shadow,2023,2023-09-06,Worldwide,Spanish,Mexico,Comedy,82,6.4,22673,,227220000,Yes,Synthetic demo data
+GLB0371,Silver City,2023,2023-03-04,Worldwide,Japanese,Japan,Horror,123,4.4,2088,158100000,,Yes,Synthetic demo data
+GLB0395,Final Station,2023,2023-03-16,Worldwide,Spanish,Spain,Crime,134,7.2,18982,93800000,81520000,No,Synthetic demo data
+GLB0413,Forgotten Promise 2,2023,2023-05-15,Worldwide,Hindi,India,Sci-Fi,105,,3396,115900000,92580000,No,Synthetic demo data
+GLB0426,Paper Afterglow,2023,2023-01-13,Worldwide,German,Germany,Crime,133,7.6,6510,9900000,21770000,No,Synthetic demo data
+GLB0429,Silver Theory 2,2023,2023-02-03,Worldwide,French,France,Fantasy,148,6.8,1473,120400000,172320000,Yes,Synthetic demo data
+GLB0439,Wild Promise,2023,2023-10-08,Worldwide,English,United Kingdom,Animation,126,5.4,17678,128100000,100910000,Yes,Synthetic demo data
+GLB0461,Lone Shadow,2023,2023-08-11,Worldwide,German,Germany,Sci-Fi,133,6.8,1373,114300000,135710000,No,Synthetic demo data
+TAM0011,Payanam Kural,2023,2023-05-21,Tamil,Tamil,India,Sci-Fi,165,5.6,547,4030000,11020000,Yes,Synthetic demo data
+TAM0023,Puyal Kadhai,2023,2023-03-16,Tamil,Tamil,India,Adventure,140,6.9,248,400000,1260000,No,Synthetic demo data
+TAM0037,Sutrula Kural,2023,2023-10-30,Tamil,Tamil,India,Sci-Fi,102,6.6,890,16620000,14890000,No,Synthetic demo data
+TAM0072,Iruvizhi Deepam Chapter,2023,2023-06-01,Tamil,Tamil,India,Comedy,113,6.5,4467,17910000,20080000,Yes,Synthetic demo data
+TAM0074,Anbu Neram,2023,2023-02-07,Tamil,Tamil,India,Drama,141,8.5,4022,6290000,15090000,No,Synthetic demo data
+TAM0111,Neruppu Thiruppam Ragasiyam,2023,2023-05-07,Tamil,Tamil,India,Action,120,7.4,6180,23940000,41600000,No,Synthetic demo data
+TAM0141,Mounam Nilal 2,2023,2023-11-28,Tamil,Tamil,India,Crime,133,7.7,6394,2330000,2210000,No,Synthetic demo data
+TAM0155,Uyir Kural,2023,2023-05-24,Tamil,Tamil,India,Comedy,130,8.9,694,18350000,68630000,No,Synthetic demo data
+TAM0208,Uyir Saatchi,2023,2023-12-07,Tamil,Tamil,India,Thriller,100,6.4,916,8920000,,No,Synthetic demo data
+GLB0008,Crimson Afterglow,2024,2024-09-08,Worldwide,Korean,South Korea,Action,131,6.0,5518,61900000,59960000,No,Synthetic demo data
+GLB0028,Silent Shadow,2024,2024-05-19,Worldwide,Korean,South Korea,Horror,116,7.0,5525,41000000,52730000,No,Synthetic demo data
+GLB0145,Wild Silence,2024,2024-04-08,Worldwide,Portuguese,Brazil,Romance,113,5.9,728,53900000,18040000,Yes,Synthetic demo data
+GLB0167,Silver River,2024,2024-08-23,Worldwide,Spanish,Mexico,Comedy,124,7.5,638,3700000,4430000,No,Synthetic demo data
+GLB0209,Wild River,2024,2024-06-02,Worldwide,English,Australia,Romance,118,4.4,665,191500000,160160000,No,Synthetic demo data
+GLB0211,Parallel Witness,2024,2024-10-05,Worldwide,French,France,Drama,100,7.3,1932,189800000,227170000,No,Synthetic demo data
+GLB0226,Silver Wildflowers: Kingdom,2024,2024-04-08,Worldwide,Portuguese,Brazil,Action,110,6.8,1256,23700000,31450000,No,Synthetic demo data
+GLB0311,Crimson Code 3,2024,2024-02-25,Worldwide,English,United Kingdom,Drama,122,4.9,18251,146900000,,Yes,Synthetic demo data
+GLB0319,Burning Kingdom,2024,2024-03-02,Worldwide,English,Australia,Drama,143,4.7,2044,198500000,528590000,No,Synthetic demo data
+GLB0337,Rising Storm 2,2024,2024-06-23,Worldwide,Italian,Italy,Thriller,119,5.1,7891,217900000,,No,Synthetic demo data
+GLB0376,Midnight Horizon: Station,2024,2024-12-19,Worldwide,Italian,Italy,Action,135,6.0,1766,216200000,,No,Synthetic demo data
+GLB0425,Paper Summit,2024,2024-08-25,Worldwide,Hindi,India,Drama,126,7.1,9748,158900000,422840000,No,Synthetic demo data
+GLB0448,Silver Witness,2024,2024-05-21,Worldwide,Portuguese,Brazil,Adventure,100,,69147,12400000,16430000,Yes,Synthetic demo data
+TAM0007,Thendral Saatchi,2024,2024-07-10,Tamil,Tamil,India,Drama,128,7.2,56786,7730000,2360000,Yes,Synthetic demo data
+TAM0012,Puyal Nilal,2024,2024-10-01,Tamil,Tamil,India,Thriller,112,9.4,4490,18650000,30340000,No,Synthetic demo data
+TAM0043,Oru Pudhiya Vettai,2024,2024-12-04,Tamil,Tamil,India,Thriller,113,6.3,3730,2170000,3510000,No,Synthetic demo data
+TAM0077,Kanavu Vettai,2024,2024-12-30,Tamil,Tamil,India,Comedy,96,7.3,157,10300000,7110000,No,Synthetic demo data
+TAM0080,Sutrula Ellai 2040,2024,2024-05-03,Tamil,Tamil,India,Adventure,127,5.6,1563,16130000,,No,Synthetic demo data
+TAM0091,Thooral Vaanavil,2024,2024-09-25,Tamil,Tamil,India,Drama,126,6.0,1067,12200000,6720000,No,Synthetic demo data
+TAM0095,Kadal Payanam,2024,2024-02-17,Tamil,Tamil,India,Thriller,132,7.8,6562,,5500000,No,Synthetic demo data
+TAM0108,Adanga Ellai 2040,2024,2024-03-18,Tamil,Tamil,India,Sci-Fi,129,7.9,3167,2780000,1670000,No,Synthetic demo data
+TAM0118,Kadal Paadhai,2024,2024-06-04,Tamil,Tamil,India,Adventure,150,7.2,5038,15810000,,No,Synthetic demo data
+TAM0171,Pudhir Sakkaram,2024,2024-10-26,Tamil,Tamil,India,Romance,161,,3571,21510000,11190000,Yes,Synthetic demo data
+TAM0174,Kanavu Osai,2024,2024-11-11,Tamil,Tamil,India,Crime,114,,2504,13890000,10350000,No,Synthetic demo data
+TAM0188,Vaanam Deepam 2,2024,2024-01-21,Tamil,Tamil,India,Sci-Fi,141,5.5,2528,1970000,2160000,No,Synthetic demo data
+GLB0012,Midnight Frequency,2025,2025-10-07,Worldwide,Japanese,Japan,Fantasy,140,8.0,2433,32100000,,No,Synthetic demo data
+GLB0015,Final Lantern: Odyssey,2025,2025-02-18,Worldwide,English,United States,Romance,91,8.1,2838,177900000,216760000,Yes,Synthetic demo data
+GLB0022,Velvet Reckoning,2025,2025-09-19,Worldwide,Portuguese,Brazil,Sci-Fi,86,7.5,3284,109900000,,No,Synthetic demo data
+GLB0044,Frozen Code,2025,2025-12-17,Worldwide,English,Australia,Fantasy,139,6.4,606,9600000,8130000,No,Synthetic demo data
+GLB0073,Final Summit,2025,2025-03-08,Worldwide,French,France,Sci-Fi,125,6.6,1318,157300000,,No,Synthetic demo data
+GLB0075,Fading Reckoning,2025,2025-04-23,Worldwide,Hindi,India,Adventure,106,7.2,14541,84800000,93840000,No,Synthetic demo data
+GLB0084,Rising Voyage,2025,2025-11-07,Worldwide,Telugu,India,Adventure,135,6.1,6385,,222140000,No,Synthetic demo data
+GLB0112,Paper Mirage: Garden,2025,2025-05-19,Worldwide,Telugu,India,Sci-Fi,131,6.2,2275,160700000,401790000,Yes,Synthetic demo data
+GLB0116,Distant Frequency,2025,2025-11-10,Worldwide,English,United States,Drama,124,7.9,3549,68300000,44100000,Yes,Synthetic demo data
+GLB0132,Secret Mirage,2025,2025-02-04,Worldwide,Japanese,Japan,Comedy,131,7.6,1942,8900000,14590000,Yes,Synthetic demo data
+GLB0193,Broken Theory,2025,2025-09-22,Worldwide,Spanish,Mexico,Drama,106,9.5,1546,35900000,306820000,No,Synthetic demo data
+GLB0195,Burning Signal: Station,2025,2025-03-19,Worldwide,Malayalam,India,Animation,104,6.0,2401,92400000,21570000,No,Synthetic demo data
+GLB0204,Infinite Moon,2025,2025-10-03,Worldwide,German,Germany,Action,129,7.4,5280,215100000,220620000,No,Synthetic demo data
+GLB0276,Velvet Atlas 2,2025,2025-09-03,Worldwide,Japanese,Japan,Thriller,120,7.2,442,70200000,25890000,No,Synthetic demo data
+GLB0287,Starlit Voyage,2025,2025-12-10,Worldwide,English,United States,Mystery,135,7.8,596,140000000,312930000,Yes,Synthetic demo data
+GLB0354,Midnight Garden,2025,2025-07-10,Worldwide,Korean,South Korea,Action,97,7.6,9588,12100000,,Yes,Synthetic demo data
+GLB0366,Midnight Theory,2025,2025-06-01,Worldwide,Mandarin,China,Horror,133,6.6,1838,156500000,209480000,No,Synthetic demo data
+GLB0390,Secret Witness,2025,2025-03-05,Worldwide,Italian,Italy,Sci-Fi,136,8.0,14635,162200000,359050000,No,Synthetic demo data
+GLB0403,Forgotten Wildflowers,2025,2025-10-26,Worldwide,English,United States,Thriller,97,5.2,9806,48600000,28990000,No,Synthetic demo data
+GLB0446,Burning Moon,2025,2025-10-15,Worldwide,German,Germany,Thriller,98,5.5,5793,205100000,201340000,Yes,Synthetic demo data
+TAM0013,Sutrula Puyal Ragasiyam,2025,2025-09-03,Tamil,Tamil,India,Action,137,5.7,20205,8350000,13040000,No,Synthetic demo data
+TAM0014,Uyir Thuli,2025,2025-07-30,Tamil,Tamil,India,Mystery,118,,10931,830000,1020000,No,Synthetic demo data
+TAM0051,Vettai Aattam,2025,2025-09-29,Tamil,Tamil,India,Adventure,153,6.9,450,9610000,9780000,No,Synthetic demo data
+TAM0070,Nizhal Thuli Ragasiyam,2025,2025-12-19,Tamil,Tamil,India,Comedy,118,6.4,58,18160000,,Yes,Synthetic demo data
+TAM0105,Kaalam Ulagam,2025,2025-04-02,Tamil,Tamil,India,Romance,142,7.2,979,19550000,,Yes,Synthetic demo data
+TAM0114,Vaanam Suvadugal 2040,2025,2025-04-20,Tamil,Tamil,India,Action,136,6.6,2317,12880000,11770000,No,Synthetic demo data
+TAM0154,Nizhal Payanam Returns,2025,2025-11-29,Tamil,Tamil,India,Comedy,128,4.8,360,10960000,15430000,No,Synthetic demo data
+TAM0159,Aazhi Sakkaram Ragasiyam,2025,2025-08-08,Tamil,Tamil,India,Romance,81,5.3,2750,,18860000,Yes,Synthetic demo data
+TAM0195,Iravu Kanakku,2025,2025-06-08,Tamil,Tamil,India,Drama,126,6.9,714,20550000,44680000,No,Synthetic demo data

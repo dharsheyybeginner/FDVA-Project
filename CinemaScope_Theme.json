@@ -1,0 +1,7 @@
+{
+  "name": "CinemaScope Dark Cinema",
+  "dataColors": ["#E50914", "#F59E0B", "#38BDF8", "#A78BFA", "#34D399", "#F472B6", "#F8FAFC", "#94A3B8"],
+  "background": "#0B1020",
+  "foreground": "#F8FAFC",
+  "tableAccent": "#E50914"
+}

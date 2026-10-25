@@ -1,0 +1,91 @@
+// Create these one at a time using Modeling > New measure.
+// Table names expected: Movies and OTT.
+// All data values are synthetic demonstration values.
+
+Total Movies = DISTINCTCOUNT(Movies[MovieID])
+
+Tamil Movie Count =
+CALCULATE(
+    [Total Movies],
+    Movies[Industry] = "Tamil"
+)
+
+Worldwide Movie Count =
+CALCULATE(
+    [Total Movies],
+    Movies[Industry] = "Worldwide"
+)
+
+Average Audience Rating = AVERAGE(Movies[AudienceRating])
+
+Average Tamil Rating =
+CALCULATE(
+    [Average Audience Rating],
+    Movies[Industry] = "Tamil"
+)
+
+Average Worldwide Rating =
+CALCULATE(
+    [Average Audience Rating],
+    Movies[Industry] = "Worldwide"
+)
+
+Total Box Office Revenue USD = SUM(Movies[RevenueUSD])
+
+Total Budget USD = SUM(Movies[BudgetUSD])
+
+Estimated Profit USD =
+SUMX(
+    FILTER(
+        Movies,
+        NOT(ISBLANK(Movies[RevenueUSD])) &&
+        NOT(ISBLANK(Movies[BudgetUSD]))
+    ),
+    Movies[RevenueUSD] - Movies[BudgetUSD]
+)
+
+Average Runtime Minutes = AVERAGE(Movies[RuntimeMin])
+
+Movies With Ratings = COUNT(Movies[AudienceRating])
+
+Movies With Revenue = COUNT(Movies[RevenueUSD])
+
+OTT Listing Rows = COUNTROWS(OTT)
+
+OTT Unique Titles = DISTINCTCOUNT(OTT[Title])
+
+OTT Movie Listings =
+CALCULATE(
+    [OTT Listing Rows],
+    OTT[ContentType] = "Movie"
+)
+
+OTT TV Show Listings =
+CALCULATE(
+    [OTT Listing Rows],
+    OTT[ContentType] = "TV Show"
+)
+
+OTT Unique Movie Titles =
+CALCULATE(
+    DISTINCTCOUNT(OTT[Title]),
+    OTT[ContentType] = "Movie"
+)
+
+OTT Unique TV Show Titles =
+CALCULATE(
+    DISTINCTCOUNT(OTT[Title]),
+    OTT[ContentType] = "TV Show"
+)
+
+// Create these as calculated columns via Modeling > New column, not measures.
+Release Decade = INT(Movies[ReleaseYear] / 10) * 10
+
+Rating Category =
+SWITCH(
+    TRUE(),
+    ISBLANK(Movies[AudienceRating]), "Not Rated",
+    Movies[AudienceRating] >= 8, "Highly Rated",
+    Movies[AudienceRating] >= 6, "Moderately Rated",
+    "Lower Rated"
+)

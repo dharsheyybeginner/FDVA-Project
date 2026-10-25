@@ -1,0 +1,49 @@
+CINEMASCOPE — OPTIONAL POWER QUERY M EXAMPLES
+
+EASIEST OPTION: Use Home > Get Data > Text/CSV and select the supplied CSVs. You do not need to use M code manually.
+
+If your instructor wants to see Power Query M, these examples show the cleaning/type-setting stage. Replace the file path with the full local path where you extracted the ZIP. Create each as a separate blank query in Power Query Editor (Home > New Source > Blank Query, then Advanced Editor). Rename queries to Movies and OTT.
+
+QUERY 1 — Movies
+----------------
+let
+    Source = Csv.Document(
+        File.Contents("C:\REPLACE_WITH_YOUR_PATH\CinemaScope_FDVA_PowerBI_Project\data\movies.csv"),
+        [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]
+    ),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Types = Table.TransformColumnTypes(Headers, {
+        {"MovieID", type text}, {"Title", type text}, {"ReleaseYear", Int64.Type},
+        {"ReleaseDate", type date}, {"Industry", type text}, {"Language", type text},
+        {"Country", type text}, {"Genre", type text}, {"RuntimeMin", Int64.Type},
+        {"AudienceRating", type number}, {"VoteCount", Int64.Type},
+        {"BudgetUSD", Int64.Type}, {"RevenueUSD", Int64.Type},
+        {"OTTReleaseFlag", type text}, {"DataNature", type text}
+    }, "en-US"),
+    TrimmedText = Table.TransformColumns(Types, {{"Title", Text.Trim, type text}}),
+    ValidTitles = Table.SelectRows(TrimmedText, each [Title] <> null and [Title] <> "")
+in
+    ValidTitles
+
+QUERY 2 — OTT
+-------------
+let
+    Source = Csv.Document(
+        File.Contents("C:\REPLACE_WITH_YOUR_PATH\CinemaScope_FDVA_PowerBI_Project\data\ott_catalog.csv"),
+        [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]
+    ),
+    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    Types = Table.TransformColumnTypes(Headers, {
+        {"OTTID", type text}, {"MovieID", type text}, {"Title", type text},
+        {"ContentType", type text}, {"Language", type text}, {"Country", type text},
+        {"ReleaseYear", Int64.Type}, {"Genre", type text}, {"Platform", type text},
+        {"DateAdded", type date}, {"ContentRating", type text}, {"DurationMin", Int64.Type},
+        {"Seasons", Int64.Type}, {"AudienceRating", type number},
+        {"AvailabilityStatus", type text}, {"DataNature", type text}
+    }, "en-US"),
+    TrimmedText = Table.TransformColumns(Types, {{"Title", Text.Trim, type text}}),
+    ValidTitles = Table.SelectRows(TrimmedText, each [Title] <> null and [Title] <> "")
+in
+    ValidTitles
+
+Note: Power Query may infer blank numeric cells as null, which is expected. Do not replace missing BudgetUSD, RevenueUSD, or AudienceRating values with zero.

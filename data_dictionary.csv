@@ -1,0 +1,27 @@
+﻿File,Column,Definition
+movies.csv,MovieID,"Unique synthetic movie identifier; TAM = Tamil demo record, GLB = worldwide demo record."
+movies.csv,Title,Fictional/generated title for demonstration; may resemble existing titles by coincidence.
+movies.csv,ReleaseYear,Simulated release year from 2000 through 2025.
+movies.csv,ReleaseDate,Generated date within ReleaseYear; not an actual release date.
+movies.csv,Industry,Tamil or Worldwide grouping used in the dashboard.
+movies.csv,Language,Synthetic language label.
+movies.csv,Country,Synthetic production-country label.
+movies.csv,Genre,One generated genre label per movie.
+movies.csv,RuntimeMin,Generated runtime in minutes.
+movies.csv,AudienceRating,"Simulated 0-10 rating; blank means missing, not zero."
+movies.csv,VoteCount,Simulated audience vote count.
+movies.csv,BudgetUSD,Simulated budget in US dollars; blanks are missing values.
+movies.csv,RevenueUSD,Simulated gross revenue in US dollars; blanks are missing values.
+movies.csv,OTTReleaseFlag,Simulated Yes/No indicator for demo filtering only.
+movies.csv,DataNature,Marks every row as synthetic demo data.
+ott_catalog.csv,OTTID,Unique synthetic platform-listing row ID.
+ott_catalog.csv,MovieID,Links to movies.csv for catalogued movies; blank for generated TV shows.
+ott_catalog.csv,ContentType,Movie or TV Show.
+ott_catalog.csv,Platform,Simulated platform association; not a claim of actual availability.
+ott_catalog.csv,DateAdded,"Generated catalogue-added date, not an actual platform date."
+ott_catalog.csv,ContentRating,Simulated viewing certificate label; not an audience rating.
+ott_catalog.csv,DurationMin,Runtime for movie listings; blank for TV shows.
+ott_catalog.csv,Seasons,Generated season count for TV shows; blank for movies.
+ott_catalog.csv,AudienceRating,Simulated audience rating on a 0-10 scale; distinct from ContentRating.
+ott_catalog.csv,AvailabilityStatus,Always labeled Simulated listing to avoid implying real platform availability.
+both,DataNature,Synthetic demo data: all records and values are generated for this project.
